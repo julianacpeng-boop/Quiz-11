@@ -1,0 +1,4 @@
+CAPA_SEGUNDOS=2
+
+Encontre os 7 erros na sala do gatinho! Você conseguiu todos? Conte nos comentários.
+#JuhQuiz #7Erros #DesafioVisual #Kwai

@@ -1,0 +1,7 @@
+1. Sol da janela desapareceu
+2. Cor da estrela no quadro
+3. Posição do ponteiro do relógio
+4. Cor da cúpula do abajur
+5. Cor da almofada
+6. Cor do livro superior
+7. Símbolo da caneca
