@@ -1,0 +1,76 @@
+name: Gerar 7 erros e salvar no Drive
+on:
+  workflow_dispatch:
+    inputs:
+      inicio:
+        description: Número do primeiro desafio
+        required: true
+        default: '1'
+        type: string
+      quantidade:
+        description: Quantos vídeos gerar (comece com 1 para conferir)
+        required: true
+        default: '1'
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: juh-7-erros
+  cancel-in-progress: false
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Conferir entradas e autorização
+        env:
+          INICIO: ${{ inputs.inicio }}
+          QUANTIDADE: ${{ inputs.quantidade }}
+          DRIVE_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json, os, re
+          for key in ('INICIO', 'QUANTIDADE'):
+              if not re.fullmatch(r'[1-9]\d*', os.environ[key]):
+                  raise SystemExit('Informe início e quantidade como números positivos.')
+          try:
+              token = json.loads(os.environ.get('DRIVE_TOKEN', ''))
+          except ValueError:
+              raise SystemExit('Configure o Secret RCLONE_DRIVE_TOKEN com o JSON completo da autorização do Drive.') from None
+          if not isinstance(token, dict) or not token.get('refresh_token'):
+              raise SystemExit('O token do Drive precisa conter refresh_token.')
+          PY
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core rclone
+          pip install -r requirements.txt
+      - name: Gerar e enviar cada vídeo e legenda
+        env:
+          INICIO: ${{ inputs.inicio }}
+          QUANTIDADE: ${{ inputs.quantidade }}
+          LOTE: execucao-${{ github.run_id }}
+          RCLONE_CONFIG_DESTINO_TYPE: drive
+          RCLONE_CONFIG_DESTINO_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
+          RCLONE_CONFIG_DESTINO_ROOT_FOLDER_ID: 1IeWfSGxVOgY4nwLQwGxzPZMqRCO81i8B
+        run: python -u gerar_7_erros.py --inicio "$INICIO" --quantidade "$QUANTIDADE" --lote "$LOTE" --saida "saida/$LOTE" --enviar-drive
+      - name: Guardar cópia no GitHub mesmo se parte do lote falhar
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: juh-quiz-${{ github.run_id }}
+          path: saida/
+          if-no-files-found: warn
+          compression-level: 0
+          retention-days: 14
+      - name: Resultado
+        if: success()
+        run: |
+          echo 'Vídeos 1080×1920 e legendas enviados e conferidos no Drive.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Subpasta: saida/Juh-Quiz-7-Erros/execucao-${{ github.run_id }}' >> "$GITHUB_STEP_SUMMARY"
+          echo '[Abrir a pasta no Drive](https://drive.google.com/drive/folders/1IeWfSGxVOgY4nwLQwGxzPZMqRCO81i8B)' >> "$GITHUB_STEP_SUMMARY"
