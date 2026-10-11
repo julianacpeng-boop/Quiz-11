@@ -1,0 +1,4 @@
+CAPA_SEGUNDOS=2
+
+Encontre os 7 erros: aquário encantado! Você conseguiu todos? Conte quantos encontrou nos comentários.
+#JuhQuiz #7Erros #DesafioVisual #Kwai
