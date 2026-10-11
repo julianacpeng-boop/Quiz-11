@@ -1,4 +1,4 @@
-name: Gerar 7 erros e salvar no Drive
+name: Quiz 11 - Gerar 15 jogos dos 7 erros
 on:
   workflow_dispatch:
     inputs:
@@ -10,12 +10,12 @@ on:
       quantidade:
         description: Quantos vídeos gerar (comece com 1 para conferir)
         required: true
-        default: '1'
+        default: '15'
         type: string
 permissions:
   contents: read
 concurrency:
-  group: juh-7-erros
+  group: juh-quiz-11-7-erros
   cancel-in-progress: false
 jobs:
   gerar:
