@@ -1,0 +1,152 @@
+[
+  {
+    "titulo": "Sala do gatinho 1",
+    "imagem_a": "imagens/sala_1_a.png",
+    "imagem_b": "imagens/sala_1_b.png",
+    "legenda": "Encontre os 7 erros na sala do gatinho! Você conseguiu todos? Conte nos comentários.",
+    "erros": [
+      {
+        "x": 0.092,
+        "y": 0.15517241379310345,
+        "raio": 0.058,
+        "descricao": "Sol da janela desapareceu"
+      },
+      {
+        "x": 0.49,
+        "y": 0.15,
+        "raio": 0.058,
+        "descricao": "Cor da estrela no quadro"
+      },
+      {
+        "x": 0.654,
+        "y": 0.17758620689655172,
+        "raio": 0.058,
+        "descricao": "Posição do ponteiro do relógio"
+      },
+      {
+        "x": 0.834,
+        "y": 0.24310344827586206,
+        "raio": 0.058,
+        "descricao": "Cor da cúpula do abajur"
+      },
+      {
+        "x": 0.332,
+        "y": 0.5431034482758621,
+        "raio": 0.058,
+        "descricao": "Cor da almofada"
+      },
+      {
+        "x": 0.589,
+        "y": 0.753448275862069,
+        "raio": 0.058,
+        "descricao": "Cor do livro superior"
+      },
+      {
+        "x": 0.443,
+        "y": 0.7706896551724138,
+        "raio": 0.058,
+        "descricao": "Símbolo da caneca"
+      }
+    ]
+  },
+  {
+    "titulo": "Sala do gatinho 2",
+    "imagem_a": "imagens/sala_2_a.png",
+    "imagem_b": "imagens/sala_2_b.png",
+    "legenda": "Encontre os 7 erros na sala do gatinho! Você conseguiu todos? Conte nos comentários.",
+    "erros": [
+      {
+        "x": 0.092,
+        "y": 0.15517241379310345,
+        "raio": 0.058,
+        "descricao": "Sol da janela desapareceu"
+      },
+      {
+        "x": 0.49,
+        "y": 0.15,
+        "raio": 0.058,
+        "descricao": "Cor da estrela no quadro"
+      },
+      {
+        "x": 0.654,
+        "y": 0.17758620689655172,
+        "raio": 0.058,
+        "descricao": "Posição do ponteiro do relógio"
+      },
+      {
+        "x": 0.834,
+        "y": 0.24310344827586206,
+        "raio": 0.058,
+        "descricao": "Cor da cúpula do abajur"
+      },
+      {
+        "x": 0.332,
+        "y": 0.5431034482758621,
+        "raio": 0.058,
+        "descricao": "Cor da almofada"
+      },
+      {
+        "x": 0.589,
+        "y": 0.753448275862069,
+        "raio": 0.058,
+        "descricao": "Cor do livro superior"
+      },
+      {
+        "x": 0.443,
+        "y": 0.7706896551724138,
+        "raio": 0.058,
+        "descricao": "Símbolo da caneca"
+      }
+    ]
+  },
+  {
+    "titulo": "Sala do gatinho 3",
+    "imagem_a": "imagens/sala_3_a.png",
+    "imagem_b": "imagens/sala_3_b.png",
+    "legenda": "Encontre os 7 erros na sala do gatinho! Você conseguiu todos? Conte nos comentários.",
+    "erros": [
+      {
+        "x": 0.092,
+        "y": 0.15517241379310345,
+        "raio": 0.058,
+        "descricao": "Sol da janela desapareceu"
+      },
+      {
+        "x": 0.49,
+        "y": 0.15,
+        "raio": 0.058,
+        "descricao": "Cor da estrela no quadro"
+      },
+      {
+        "x": 0.654,
+        "y": 0.17758620689655172,
+        "raio": 0.058,
+        "descricao": "Posição do ponteiro do relógio"
+      },
+      {
+        "x": 0.834,
+        "y": 0.24310344827586206,
+        "raio": 0.058,
+        "descricao": "Cor da cúpula do abajur"
+      },
+      {
+        "x": 0.332,
+        "y": 0.5431034482758621,
+        "raio": 0.058,
+        "descricao": "Cor da almofada"
+      },
+      {
+        "x": 0.589,
+        "y": 0.753448275862069,
+        "raio": 0.058,
+        "descricao": "Cor do livro superior"
+      },
+      {
+        "x": 0.443,
+        "y": 0.7706896551724138,
+        "raio": 0.058,
+        "descricao": "Símbolo da caneca"
+      }
+    ]
+  }
+]
