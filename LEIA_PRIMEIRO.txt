@@ -1,0 +1,53 @@
+QUIZ-11 — JOGO DOS 7 ERROS — 15 VÍDEOS
+
+PRIMEIRA INSTALAÇÃO
+1. Extraia este ZIP no celular ou no computador.
+2. Abra https://github.com/julianacpeng-boop/Quiz-11/upload/main
+3. Envie o CONTEÚDO extraído na raiz do repositório, preservando as pastas.
+   Não envie o ZIP inteiro e não crie uma pasta acima dos arquivos.
+4. Confirme que existem gerar_7_erros.py, dados_7_erros.json, requirements.txt,
+   imagens/, audio/ e fontes/ na raiz.
+5. O workflow precisa ficar em .github/workflows/gerar.yml.
+   Se o celular esconder .github, abra:
+   https://github.com/julianacpeng-boop/Quiz-11/new/main
+   No nome do arquivo, escreva .github/workflows/gerar.yml.
+   Cole TODO o conteúdo de workflow_para_colar.txt e salve.
+   Se gerar.yml já existir, edite-o e substitua pelo conteúdo novo.
+6. Configure o Secret RCLONE_DRIVE_TOKEN em:
+   https://github.com/julianacpeng-boop/Quiz-11/settings/secrets/actions/new
+   Use o JSON completo da autorização do Quiz-10. Se já cadastrou no Quiz-11,
+   não precisa cadastrar novamente.
+
+GERAR OS 15 VÍDEOS
+Abra https://github.com/julianacpeng-boop/Quiz-11/actions
+Escolha "Quiz 11 - Gerar 15 jogos dos 7 erros" e "Run workflow".
+Início: 1. Quantidade: 15.
+Para um teste inicial, quantidade: 1.
+
+O código salva um MP4 e um TXT por desafio no Drive, conferindo cada envio.
+Destino: saida/Juh-Quiz-7-Erros/execucao-NÚMERO/
+na mesma pasta raiz usada pelo Quiz-10.
+O celular pode ser fechado após iniciar a execução.
+
+PARA CRIAR NOVOS VÍDEOS NO FUTURO
+Troque somente dados_7_erros.json e a pasta imagens/ pelos novos arquivos.
+O código, o workflow e o Secret podem continuar como estão.
+Você pode pedir um novo lote pronto: eu entrego as imagens e o JSON juntos.
+
+O QUE ESTÁ INCLUÍDO
+- Quinze desafios ilustrados, um por vídeo.
+- Modelos rosa, azul e roxo: vídeo 1 rosa, 2 azul, 3 roxo, 4 rosa, e repete.
+- Formato vertical 1080x1920, 30 fps.
+- Fala "Encontre os sete erros!" antes de começar a contagem.
+- Exatos 20 segundos de desafio, com um toque a cada segundo.
+- Ao terminar, fala "Quantos você encontrou?" e mostra as respostas por 5s.
+- Sete respostas circuladas na revelação.
+- Voz Antônio em português, como no Quiz-10. As duas falas já estão na pasta audio/; não precisam de internet nem chave.
+- Legenda própria por desafio, CAPA_SEGUNDOS=2 e quatro hashtags.
+- As imagens já estão no ZIP. O GitHub não precisa de chave de geração de imagens.
+
+Cada PNG em imagens/ contém o par de cenas (A acima, B abaixo).
+O JSON reúne a legenda e sete posições de marcação relativas à cena.
+As capas, gabaritos e previews são gerados localmente; o envio automático
+ao Drive transmite somente MP4 e o TXT da legenda.
+Este ZIP é o projeto para o GitHub, não um arquivo para publicar no Kwai.
