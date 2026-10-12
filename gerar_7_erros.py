@@ -203,7 +203,7 @@ def gerar_video(item, numero, saida, tempo, revelacao, previas=False):
     quadro(item, numero, imagens, resposta=True).save(saida / f"{nome}_resposta.png")
     legenda = item.get("legenda", "Você consegue encontrar os 7 erros? Comente quantos encontrou!")
     (saida / f"{nome}.txt").write_text(
-        f"CAPA_SEGUNDOS=2\n\n{legenda}\n#JuhQuiz #7Erros #DesafioVisual #Kwai\n", encoding="utf-8")
+        f"CAPA_SEGUNDOS=2\n\n{legenda}\n{item.get('hashtags', '#JuhQuiz #7Erros #DesafioVisual #Kwai')}\n", encoding="utf-8")
     (saida / f"{nome}_gabarito.txt").write_text(
         "\n".join(f"{i}. {e['descricao']}" for i, e in enumerate(item['erros'], 1)), encoding="utf-8")
     if previas:
@@ -298,3 +298,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

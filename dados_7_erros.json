@@ -1,757 +1,151 @@
 [
   {
-    "titulo": "Cafeteria aconchegante",
-    "imagem_par": "imagens/desafio_01.png",
-    "legenda": "Encontre os 7 erros: cafeteria aconchegante! Você conseguiu todos? Conte quantos encontrou nos comentários.",
+    "titulo": "A Fazenda",
+    "imagem_par": "imagens/desafio_novo_01.png",
+    "legenda": "Encontre os 7 erros nesta cena inspirada em A Fazenda! Quantos você encontrou?",
+    "hashtags": "#AFazenda #RealityShow #7Erros #DesafioVisual",
     "erros": [
       {
-        "x": 0.323,
-        "y": 0.636,
-        "raio": 0.12,
+        "x": 0.31,
+        "y": 0.526,
+        "raio": 0.075,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.137,
-        "y": 0.307,
-        "raio": 0.045,
-        "descricao": "Cereja sobre o bolo"
-      },
-      {
-        "x": 0.73,
-        "y": 0.151,
-        "raio": 0.11,
-        "descricao": "Ponteiro do relógio"
-      },
-      {
-        "x": 0.435,
-        "y": 0.082,
-        "raio": 0.11,
-        "descricao": "Cor da luminária"
-      },
-      {
-        "x": 0.908,
-        "y": 0.448,
+        "x": 0.193,
+        "y": 0.292,
         "raio": 0.13,
-        "descricao": "Cor da almofada"
-      },
-      {
-        "x": 0.582,
-        "y": 0.164,
-        "raio": 0.12,
-        "descricao": "Sol e lua no quadro"
-      },
-      {
-        "x": 0.616,
-        "y": 0.655,
-        "raio": 0.08,
-        "descricao": "Cor do vaso da planta"
-      }
-    ]
-  },
-  {
-    "titulo": "Praia tropical",
-    "imagem_par": "imagens/desafio_02.png",
-    "legenda": "Encontre os 7 erros: praia tropical! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.258,
-        "y": 0.131,
-        "raio": 0.27,
-        "descricao": "Cor do guarda-sol"
-      },
-      {
-        "x": 0.635,
-        "y": 0.728,
-        "raio": 0.11,
-        "descricao": "Cor da bola de praia"
-      },
-      {
-        "x": 0.344,
-        "y": 0.51,
-        "raio": 0.07,
-        "descricao": "Cor da bebida"
-      },
-      {
-        "x": 0.911,
-        "y": 0.481,
-        "raio": 0.055,
-        "descricao": "Cor da bandeira do castelo"
-      },
-      {
-        "x": 0.836,
-        "y": 0.335,
-        "raio": 0.075,
-        "descricao": "Barco no mar"
-      },
-      {
-        "x": 0.829,
-        "y": 0.836,
-        "raio": 0.075,
-        "descricao": "Estrela-do-mar na areia"
-      },
-      {
-        "x": 0.191,
-        "y": 0.55,
-        "raio": 0.23,
-        "descricao": "Cor da espreguiçadeira"
-      }
-    ]
-  },
-  {
-    "titulo": "Jardim encantado",
-    "imagem_par": "imagens/desafio_03.png",
-    "legenda": "Encontre os 7 erros: jardim encantado! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.26,
-        "y": 0.78,
-        "raio": 0.14,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.287,
-        "y": 0.501,
-        "raio": 0.15,
-        "descricao": "Cor da almofada do banco"
-      },
-      {
-        "x": 0.481,
-        "y": 0.106,
-        "raio": 0.12,
-        "descricao": "Cor do telhado da casinha"
-      },
-      {
-        "x": 0.676,
-        "y": 0.506,
-        "raio": 0.075,
-        "descricao": "Cor da rosa"
-      },
-      {
-        "x": 0.697,
-        "y": 0.436,
-        "raio": 0.065,
-        "descricao": "Borboleta"
-      },
-      {
-        "x": 0.76,
-        "y": 0.55,
-        "raio": 0.08,
-        "descricao": "Cor do chapéu do gnomo"
-      },
-      {
-        "x": 0.926,
-        "y": 0.382,
-        "raio": 0.1,
-        "descricao": "Lanterna na cerca"
-      }
-    ]
-  },
-  {
-    "titulo": "Cozinha de confeitaria",
-    "imagem_par": "imagens/desafio_04.png",
-    "legenda": "Encontre os 7 erros: cozinha de confeitaria! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.457,
-        "y": 0.487,
-        "raio": 0.065,
-        "descricao": "Cereja sobre o cupcake"
-      },
-      {
-        "x": 0.663,
-        "y": 0.5,
-        "raio": 0.24,
-        "descricao": "Cor do bule"
-      },
-      {
-        "x": 0.204,
-        "y": 0.795,
-        "raio": 0.14,
-        "descricao": "Cor das listras do pano"
-      },
-      {
-        "x": 0.473,
-        "y": 0.133,
-        "raio": 0.08,
-        "descricao": "Cor da tampa do pote"
-      },
-      {
-        "x": 0.717,
-        "y": 0.135,
-        "raio": 0.14,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.88,
-        "y": 0.245,
-        "raio": 0.065,
-        "descricao": "Cor de uma margarida"
-      },
-      {
-        "x": 0.867,
-        "y": 0.695,
-        "raio": 0.13,
-        "descricao": "Quantidade de cookies"
-      }
-    ]
-  },
-  {
-    "titulo": "Fazendinha",
-    "imagem_par": "imagens/desafio_05.png",
-    "legenda": "Encontre os 7 erros: fazendinha! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.204,
-        "y": 0.165,
-        "raio": 0.085,
-        "descricao": "Janela circular do celeiro"
-      },
-      {
-        "x": 0.675,
-        "y": 0.146,
-        "raio": 0.07,
-        "descricao": "Cor do centro do moinho"
-      },
-      {
-        "x": 0.43,
-        "y": 0.496,
-        "raio": 0.08,
-        "descricao": "Mancha na lateral da vaca"
-      },
-      {
-        "x": 0.206,
-        "y": 0.803,
-        "raio": 0.07,
-        "descricao": "Ovo na palha"
-      },
-      {
-        "x": 0.625,
-        "y": 0.756,
-        "raio": 0.07,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.826,
-        "y": 0.772,
-        "raio": 0.16,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.885,
-        "y": 0.263,
-        "raio": 0.13,
-        "descricao": "Cor do chapéu do espantalho"
-      }
-    ]
-  },
-  {
-    "titulo": "Quarto infantil",
-    "imagem_par": "imagens/desafio_06.png",
-    "legenda": "Encontre os 7 erros: quarto infantil! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.214,
-        "y": 0.314,
-        "raio": 0.24,
-        "descricao": "Cor do travesseiro"
-      },
-      {
-        "x": 0.462,
-        "y": 0.591,
-        "raio": 0.08,
-        "descricao": "Cor do laço do ursinho"
-      },
-      {
-        "x": 0.533,
-        "y": 0.152,
-        "raio": 0.12,
-        "descricao": "Cor da cúpula do abajur"
-      },
-      {
-        "x": 0.757,
-        "y": 0.476,
-        "raio": 0.08,
-        "descricao": "Cor da ponta do foguete"
-      },
-      {
-        "x": 0.662,
-        "y": 0.117,
-        "raio": 0.1,
-        "descricao": "Estrela e coração no quadro"
-      },
-      {
-        "x": 0.716,
-        "y": 0.776,
-        "raio": 0.07,
-        "descricao": "Bloco amarelo de brinquedo"
-      },
-      {
-        "x": 0.789,
-        "y": 0.26,
-        "raio": 0.08,
-        "descricao": "Cor do laço da cortina"
-      }
-    ]
-  },
-  {
-    "titulo": "Piquenique no parque",
-    "imagem_par": "imagens/desafio_07.png",
-    "legenda": "Encontre os 7 erros: piquenique no parque! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.246,
-        "y": 0.535,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.529,
-        "y": 0.729,
-        "raio": 0.13,
-        "descricao": "Sanduíche à direita"
-      },
-      {
-        "x": 0.629,
-        "y": 0.66,
-        "raio": 0.14,
-        "descricao": "Cor do suco"
-      },
-      {
-        "x": 0.773,
-        "y": 0.731,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.674,
-        "y": 0.81,
-        "raio": 0.075,
-        "descricao": "Morango sobre a toalha"
-      },
-      {
-        "x": 0.232,
-        "y": 0.11,
-        "raio": 0.25,
-        "descricao": "Cor do guarda-sol"
-      },
-      {
-        "x": 0.893,
-        "y": 0.519,
-        "raio": 0.095,
-        "descricao": "Pato no lago"
-      }
-    ]
-  },
-  {
-    "titulo": "Aquário encantado",
-    "imagem_par": "imagens/desafio_08.png",
-    "legenda": "Encontre os 7 erros: aquário encantado! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.26,
-        "y": 0.34,
-        "raio": 0.12,
-        "descricao": "Cor do peixe grande",
-        "yb": 0.31
-      },
-      {
-        "x": 0.79,
-        "y": 0.107,
-        "raio": 0.07,
-        "descricao": "Peixe amarelo",
-        "yb": 0.107
-      },
-      {
-        "x": 0.145,
-        "y": 0.77,
-        "raio": 0.1,
-        "descricao": "Cor da estrela-do-mar",
-        "yb": 0.71
-      },
-      {
-        "x": 0.46,
-        "y": 0.79,
-        "raio": 0.07,
-        "descricao": "Pérola na concha",
-        "yb": 0.74
-      },
-      {
-        "x": 0.07,
-        "y": 0.28,
-        "raio": 0.13,
-        "descricao": "Cor do coral",
-        "yb": 0.28
-      },
-      {
-        "x": 0.68,
-        "y": 0.52,
-        "raio": 0.07,
-        "descricao": "Cor da fechadura",
-        "yb": 0.49
-      },
-      {
-        "x": 0.804,
-        "y": 0.925,
-        "raio": 0.05,
-        "descricao": "Moeda na areia",
-        "yb": 0.875
-      }
-    ],
-    "paineis": [
-      [
-        0,
-        0,
-        1536,
-        489
-      ],
-      [
-        0,
-        489,
-        1536,
-        1024
-      ]
-    ]
-  },
-  {
-    "titulo": "Floricultura",
-    "imagem_par": "imagens/desafio_09.png",
-    "legenda": "Encontre os 7 erros: floricultura! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.639,
-        "y": 0.093,
-        "raio": 0.12,
-        "descricao": "Cor de uma faixa do toldo"
-      },
-      {
-        "x": 0.176,
-        "y": 0.351,
-        "raio": 0.07,
-        "descricao": "Cor de uma rosa"
-      },
-      {
-        "x": 0.226,
-        "y": 0.751,
-        "raio": 0.14,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.742,
-        "y": 0.736,
-        "raio": 0.18,
-        "descricao": "Cor do vaso grande"
-      },
-      {
-        "x": 0.419,
-        "y": 0.604,
-        "raio": 0.06,
-        "descricao": "Laço do gatinho"
-      },
-      {
-        "x": 0.887,
-        "y": 0.187,
-        "raio": 0.1,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.952,
-        "y": 0.357,
-        "raio": 0.075,
-        "descricao": "Cor do miolo do girassol"
-      }
-    ]
-  },
-  {
-    "titulo": "Biblioteca aconchegante",
-    "imagem_par": "imagens/desafio_10.png",
-    "legenda": "Encontre os 7 erros: biblioteca aconchegante! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.348,
-        "y": 0.487,
-        "raio": 0.18,
-        "descricao": "Cor da almofada"
-      },
-      {
-        "x": 0.844,
-        "y": 0.586,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.542,
-        "y": 0.699,
-        "raio": 0.05,
-        "descricao": "Sino da coleira do gato"
-      },
-      {
-        "x": 0.777,
-        "y": 0.28,
-        "raio": 0.18,
-        "descricao": "Cor da cúpula do abajur"
-      },
-      {
-        "x": 0.678,
-        "y": 0.135,
-        "raio": 0.1,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.368,
-        "y": 0.127,
-        "raio": 0.065,
-        "descricao": "Cor da lombada de um livro"
-      },
-      {
-        "x": 0.913,
-        "y": 0.069,
-        "raio": 0.05,
-        "descricao": "Pássaro no quadro"
-      }
-    ]
-  },
-  {
-    "titulo": "Doceria colorida",
-    "imagem_par": "imagens/desafio_11.png",
-    "legenda": "Encontre os 7 erros: doceria colorida! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.231,
-        "y": 0.327,
-        "raio": 0.07,
-        "descricao": "Cereja sobre o bolo"
-      },
-      {
-        "x": 0.376,
-        "y": 0.32,
-        "raio": 0.12,
-        "descricao": "Cor da tampa do pote"
-      },
-      {
-        "x": 0.853,
-        "y": 0.762,
-        "raio": 0.23,
-        "descricao": "Cor do banco"
-      },
-      {
-        "x": 0.658,
-        "y": 0.337,
-        "raio": 0.085,
-        "descricao": "Cor de uma tulipa"
-      },
-      {
-        "x": 0.373,
-        "y": 0.68,
-        "raio": 0.14,
-        "descricao": "Cor da cobertura do donut"
-      },
-      {
-        "x": 0.636,
-        "y": 0.067,
-        "raio": 0.15,
-        "descricao": "Cor da luminária"
-      },
-      {
-        "x": 0.904,
-        "y": 0.128,
-        "raio": 0.06,
-        "descricao": "Cereja do cupcake no quadro"
-      }
-    ]
-  },
-  {
-    "titulo": "Camping sob as estrelas",
-    "imagem_par": "imagens/desafio_12.png",
-    "legenda": "Encontre os 7 erros: camping sob as estrelas! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.25,
-        "y": 0.3,
-        "raio": 0.14,
-        "descricao": "Cor das bandeirinhas"
-      },
-      {
-        "x": 0.286,
-        "y": 0.77,
-        "raio": 0.1,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.115,
-        "y": 0.7,
-        "raio": 0.18,
-        "descricao": "Cor da manta"
-      },
-      {
-        "x": 0.473,
-        "y": 0.401,
-        "raio": 0.06,
-        "descricao": "Cor da alça da lanterna"
-      },
-      {
-        "x": 0.52,
-        "y": 0.094,
-        "raio": 0.05,
-        "descricao": "Estrela no céu"
-      },
-      {
-        "x": 0.815,
-        "y": 0.097,
-        "raio": 0.08,
-        "descricao": "Formato da lua"
-      },
-      {
-        "x": 0.93,
-        "y": 0.628,
-        "raio": 0.07,
-        "descricao": "Cor do laço da cesta"
-      }
-    ]
-  },
-  {
-    "titulo": "Vila de Natal",
-    "imagem_par": "imagens/desafio_13.png",
-    "legenda": "Encontre os 7 erros: vila de natal! Você conseguiu todos? Conte quantos encontrou nos comentários.",
-    "erros": [
-      {
-        "x": 0.157,
-        "y": 0.373,
-        "raio": 0.18,
-        "descricao": "Cor da porta"
-      },
-      {
-        "x": 0.488,
-        "y": 0.359,
-        "raio": 0.06,
-        "descricao": "Cor do enfeite da árvore"
-      },
-      {
-        "x": 0.7,
-        "y": 0.653,
-        "raio": 0.1,
-        "descricao": "Cor do cachecol"
-      },
-      {
-        "x": 0.711,
-        "y": 0.49,
-        "raio": 0.08,
         "descricao": "Cor do chapéu"
       },
       {
-        "x": 0.304,
-        "y": 0.654,
-        "raio": 0.07,
-        "descricao": "Cor da caixa de presente"
+        "x": 0.606,
+        "y": 0.087,
+        "raio": 0.06,
+        "descricao": "Janela do celeiro"
       },
       {
-        "x": 0.304,
-        "y": 0.6,
-        "raio": 0.05,
-        "descricao": "Cor do laço do presente"
+        "x": 0.105,
+        "y": 0.869,
+        "raio": 0.14,
+        "descricao": "Cor do regador"
       },
       {
-        "x": 0.311,
-        "y": 0.215,
-        "raio": 0.1,
-        "descricao": "Lanterna na parede"
+        "x": 0.926,
+        "y": 0.768,
+        "raio": 0.06,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.948,
+        "y": 0.039,
+        "raio": 0.075,
+        "descricao": "Cor das flores"
+      },
+      {
+        "x": 0.495,
+        "y": 0.83,
+        "raio": 0.15,
+        "descricao": "Cor do laço na palha"
       }
     ]
   },
   {
-    "titulo": "Sala dos gatinhos",
-    "imagem_par": "imagens/desafio_14.png",
-    "legenda": "Encontre os 7 erros: sala dos gatinhos! Você conseguiu todos? Conte quantos encontrou nos comentários.",
+    "titulo": "Lula e Flávio: debate em caricatura",
+    "imagem_par": "imagens/desafio_novo_02.png",
+    "legenda": "Cena fictícia de um debate entre Lula e Flávio Bolsonaro, em caricatura. Encontre as 7 diferenças e conte quantas achou!",
+    "hashtags": "#Lula #FlavioBolsonaro #7Erros #Caricatura",
     "erros": [
       {
-        "x": 0.24,
-        "y": 0.49,
-        "raio": 0.2,
-        "descricao": "Cor da almofada"
-      },
-      {
-        "x": 0.72,
-        "y": 0.7,
-        "raio": 0.2,
-        "descricao": "Cor da manta"
-      },
-      {
-        "x": 0.21,
-        "y": 0.77,
-        "raio": 0.06,
-        "descricao": "Símbolo na caneca"
-      },
-      {
-        "x": 0.41,
-        "y": 0.85,
-        "raio": 0.18,
-        "descricao": "Cor do livro"
+        "x": 0.258,
+        "y": 0.516,
+        "raio": 0.1,
+        "descricao": "Cor da gravata de Lula"
       },
       {
         "x": 0.774,
-        "y": 0.129,
+        "y": 0.524,
         "raio": 0.1,
+        "descricao": "Cor da gravata de Flávio"
+      },
+      {
+        "x": 0.177,
+        "y": 0.636,
+        "raio": 0.07,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.847,
+        "y": 0.63,
+        "raio": 0.07,
+        "descricao": "Copo sobre o púlpito"
+      },
+      {
+        "x": 0.5,
+        "y": 0.13,
+        "raio": 0.11,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.555,
-        "y": 0.155,
-        "raio": 0.055,
-        "descricao": "Barco no quadro"
+        "x": 0.025,
+        "y": 0.69,
+        "raio": 0.1,
+        "descricao": "Cor do vaso"
       },
       {
-        "x": 0.955,
-        "y": 0.684,
-        "raio": 0.12,
-        "descricao": "Cor do vaso"
+        "x": 0.913,
+        "y": 0.081,
+        "raio": 0.09,
+        "descricao": "Cor da luz do refletor"
       }
     ]
   },
   {
-    "titulo": "Ateliê de arte",
-    "imagem_par": "imagens/desafio_15.png",
-    "legenda": "Encontre os 7 erros: ateliê de arte! Você conseguiu todos? Conte quantos encontrou nos comentários.",
+    "titulo": "Chaves em caricatura",
+    "imagem_par": "imagens/desafio_novo_03.png",
+    "legenda": "Olha a turma do Chaves! Encontre os 7 erros na caricatura e conte quantos você encontrou.",
+    "hashtags": "#Chaves #Chiquinha #Quico #7Erros",
     "erros": [
       {
-        "x": 0.304,
-        "y": 0.255,
-        "raio": 0.22,
-        "descricao": "Dia e noite na pintura"
-      },
-      {
-        "x": 0.127,
-        "y": 0.61,
-        "raio": 0.18,
-        "descricao": "Cor do banco"
-      },
-      {
-        "x": 0.809,
-        "y": 0.285,
-        "raio": 0.18,
-        "descricao": "Cor da luminária"
-      },
-      {
-        "x": 0.851,
-        "y": 0.594,
-        "raio": 0.075,
-        "descricao": "Cor do tubo de tinta"
-      },
-      {
-        "x": 0.697,
-        "y": 0.344,
+        "x": 0.496,
+        "y": 0.441,
         "raio": 0.12,
-        "descricao": "Quantidade de pincéis"
+        "descricao": "Cor do suspensório"
       },
       {
-        "x": 0.81,
-        "y": 0.338,
-        "raio": 0.06,
-        "descricao": "Cor da margarida"
+        "x": 0.769,
+        "y": 0.469,
+        "raio": 0.09,
+        "descricao": "Cor do lenço do Quico"
       },
       {
-        "x": 0.962,
-        "y": 0.485,
-        "raio": 0.12,
-        "descricao": "Cor do vaso"
+        "x": 0.177,
+        "y": 0.528,
+        "raio": 0.15,
+        "descricao": "Cor do vestido da Chiquinha"
+      },
+      {
+        "x": 0.4,
+        "y": 0.825,
+        "raio": 0.055,
+        "descricao": "Peça circular no barril"
+      },
+      {
+        "x": 0.074,
+        "y": 0.87,
+        "raio": 0.1,
+        "descricao": "Cor da bola"
+      },
+      {
+        "x": 0.946,
+        "y": 0.303,
+        "raio": 0.08,
+        "descricao": "Cor das flores"
+      },
+      {
+        "x": 0.128,
+        "y": 0.116,
+        "raio": 0.15,
+        "descricao": "Cor da porta"
       }
     ]
   }
