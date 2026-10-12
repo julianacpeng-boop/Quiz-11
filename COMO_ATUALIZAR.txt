@@ -1,0 +1,14 @@
+QUIZ-11 — SCOOBY-DOO E TRÊS ESPIÃS DEMAIS
+Este pacote contém SOMENTE dois desafios novos. Branca de Neve ficou pendente:
+a ferramenta de imagens bloqueou a geração.
+1. Extraia o ZIP.
+2. Substitua dados_7_erros.json na raiz do Quiz-11.
+3. Envie scooby_doo.png e tres_espias.png para a pasta imagens/.
+4. Se já enviou gerar_7_erros.py do lote anterior, pode manter o código.
+   Uma cópia compatível está incluída para facilitar.
+5. Mantenha audio/, fontes/, requirements.txt, workflow e Secret.
+6. Em Actions > Run workflow: Início 1, Quantidade 2.
+Sequência: Scooby-Doo rosa; Três Espiãs Demais azul.
+O JSON contém apenas os dois novos. Não gera os desafios anteriores.
+Fala inicial,20 segundos com toque por segundo,fala final e respostas marcadas.
+MP4 e TXT são enviados a uma nova subpasta por execução no Drive.

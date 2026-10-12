@@ -1,151 +1,101 @@
 [
   {
-    "titulo": "A Fazenda",
-    "imagem_par": "imagens/desafio_novo_01.png",
-    "legenda": "Encontre os 7 erros nesta cena inspirada em A Fazenda! Quantos você encontrou?",
-    "hashtags": "#AFazenda #RealityShow #7Erros #DesafioVisual",
+    "titulo": "Scooby-Doo",
+    "imagem_par": "imagens/scooby_doo.png",
+    "legenda": "Mistério com a turma do Scooby-Doo! Encontre as 7 diferenças e conte quantas você achou.",
+    "hashtags": "#ScoobyDoo #Salsicha #7Erros #Desenhos",
     "erros": [
       {
-        "x": 0.31,
-        "y": 0.526,
-        "raio": 0.075,
-        "descricao": "Cor da caneca"
+        "x": 0.245,
+        "y": 0.604,
+        "raio": 0.085,
+        "descricao": "Cor da coleira do Scooby"
       },
       {
-        "x": 0.193,
-        "y": 0.292,
-        "raio": 0.13,
-        "descricao": "Cor do chapéu"
+        "x": 0.336,
+        "y": 0.518,
+        "raio": 0.19,
+        "descricao": "Cor da camiseta do Salsicha"
       },
       {
-        "x": 0.606,
-        "y": 0.087,
-        "raio": 0.06,
-        "descricao": "Janela do celeiro"
+        "x": 0.577,
+        "y": 0.585,
+        "raio": 0.17,
+        "descricao": "Cor do suéter da Velma"
       },
       {
-        "x": 0.105,
-        "y": 0.869,
-        "raio": 0.14,
-        "descricao": "Cor do regador"
+        "x": 0.702,
+        "y": 0.459,
+        "raio": 0.12,
+        "descricao": "Cor do lenço da Daphne"
+      },
+      {
+        "x": 0.075,
+        "y": 0.831,
+        "raio": 0.16,
+        "descricao": "Cor da lanterna"
       },
       {
         "x": 0.926,
-        "y": 0.768,
-        "raio": 0.06,
-        "descricao": "Cor da maçã"
+        "y": 0.099,
+        "raio": 0.095,
+        "descricao": "Formato da lua"
       },
       {
-        "x": 0.948,
-        "y": 0.039,
-        "raio": 0.075,
-        "descricao": "Cor das flores"
-      },
-      {
-        "x": 0.495,
-        "y": 0.83,
-        "raio": 0.15,
-        "descricao": "Cor do laço na palha"
+        "x": 0.926,
+        "y": 0.828,
+        "raio": 0.18,
+        "descricao": "Abóbora no jardim"
       }
     ]
   },
   {
-    "titulo": "Lula e Flávio: debate em caricatura",
-    "imagem_par": "imagens/desafio_novo_02.png",
-    "legenda": "Cena fictícia de um debate entre Lula e Flávio Bolsonaro, em caricatura. Encontre as 7 diferenças e conte quantas achou!",
-    "hashtags": "#Lula #FlavioBolsonaro #7Erros #Caricatura",
+    "titulo": "Três Espiãs Demais",
+    "imagem_par": "imagens/tres_espias.png",
+    "legenda": "Uma missão com Sam, Clover e Alex: encontre os 7 erros! Você conseguiu todos?",
+    "hashtags": "#TresEspiasDemais #TotallySpies #7Erros #Desenhos",
     "erros": [
       {
-        "x": 0.258,
-        "y": 0.516,
-        "raio": 0.1,
-        "descricao": "Cor da gravata de Lula"
+        "x": 0.254,
+        "y": 0.552,
+        "raio": 0.095,
+        "descricao": "Cor do cinto da Sam"
       },
       {
-        "x": 0.774,
-        "y": 0.524,
-        "raio": 0.1,
-        "descricao": "Cor da gravata de Flávio"
+        "x": 0.546,
+        "y": 0.78,
+        "raio": 0.13,
+        "descricao": "Cor de uma bota da Clover"
       },
       {
-        "x": 0.177,
-        "y": 0.636,
-        "raio": 0.07,
-        "descricao": "Cor da caneca"
+        "x": 0.754,
+        "y": 0.424,
+        "raio": 0.14,
+        "descricao": "Cor de uma luva da Alex"
       },
       {
-        "x": 0.847,
-        "y": 0.63,
-        "raio": 0.07,
-        "descricao": "Copo sobre o púlpito"
+        "x": 0.161,
+        "y": 0.795,
+        "raio": 0.15,
+        "descricao": "Cor do comunicador compacto"
       },
       {
-        "x": 0.5,
-        "y": 0.13,
-        "raio": 0.11,
+        "x": 0.545,
+        "y": 0.082,
+        "raio": 0.085,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.025,
-        "y": 0.69,
-        "raio": 0.1,
-        "descricao": "Cor do vaso"
-      },
-      {
-        "x": 0.913,
-        "y": 0.081,
-        "raio": 0.09,
-        "descricao": "Cor da luz do refletor"
-      }
-    ]
-  },
-  {
-    "titulo": "Chaves em caricatura",
-    "imagem_par": "imagens/desafio_novo_03.png",
-    "legenda": "Olha a turma do Chaves! Encontre os 7 erros na caricatura e conte quantos você encontrou.",
-    "hashtags": "#Chaves #Chiquinha #Quico #7Erros",
-    "erros": [
-      {
-        "x": 0.496,
-        "y": 0.441,
-        "raio": 0.12,
-        "descricao": "Cor do suspensório"
-      },
-      {
-        "x": 0.769,
-        "y": 0.469,
-        "raio": 0.09,
-        "descricao": "Cor do lenço do Quico"
-      },
-      {
-        "x": 0.177,
-        "y": 0.528,
-        "raio": 0.15,
-        "descricao": "Cor do vestido da Chiquinha"
-      },
-      {
-        "x": 0.4,
-        "y": 0.825,
-        "raio": 0.055,
-        "descricao": "Peça circular no barril"
-      },
-      {
-        "x": 0.074,
-        "y": 0.87,
-        "raio": 0.1,
-        "descricao": "Cor da bola"
-      },
-      {
-        "x": 0.946,
-        "y": 0.303,
-        "raio": 0.08,
+        "x": 0.963,
+        "y": 0.236,
+        "raio": 0.11,
         "descricao": "Cor das flores"
       },
       {
-        "x": 0.128,
-        "y": 0.116,
-        "raio": 0.15,
-        "descricao": "Cor da porta"
+        "x": 0.912,
+        "y": 0.79,
+        "raio": 0.13,
+        "descricao": "Caneca sobre a mesa"
       }
     ]
   }
