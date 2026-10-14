@@ -1,101 +1,151 @@
 [
   {
-    "titulo": "Scooby-Doo",
-    "imagem_par": "imagens/scooby_doo.png",
-    "legenda": "Mistério com a turma do Scooby-Doo! Encontre as 7 diferenças e conte quantas você achou.",
-    "hashtags": "#ScoobyDoo #Salsicha #7Erros #Desenhos",
+    "titulo": "Tom e Jerry na cozinha",
+    "imagem_par": "imagens/tom_jerry_1536.png",
+    "legenda": "Tom e Jerry entraram no desafio! Encontre os 7 erros na cozinha e conte quantos você encontrou.",
+    "hashtags": "#TomEJerry #7Erros #Desenhos #DesafioVisual",
     "erros": [
       {
-        "x": 0.245,
-        "y": 0.604,
-        "raio": 0.085,
-        "descricao": "Cor da coleira do Scooby"
+        "x": 0.843,
+        "y": 0.412,
+        "raio": 0.14,
+        "descricao": "Cor da chaleira"
       },
       {
-        "x": 0.336,
-        "y": 0.518,
+        "x": 0.117,
+        "y": 0.69,
+        "raio": 0.14,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.744,
+        "y": 0.69,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.619,
+        "y": 0.13,
+        "raio": 0.13,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.676,
+        "y": 0.875,
         "raio": 0.19,
-        "descricao": "Cor da camiseta do Salsicha"
+        "descricao": "Cor do pano"
       },
       {
-        "x": 0.577,
-        "y": 0.585,
-        "raio": 0.17,
-        "descricao": "Cor do suéter da Velma"
+        "x": 0.925,
+        "y": 0.4,
+        "raio": 0.075,
+        "descricao": "Cor da margarida"
       },
       {
-        "x": 0.702,
-        "y": 0.459,
-        "raio": 0.12,
-        "descricao": "Cor do lenço da Daphne"
-      },
-      {
-        "x": 0.075,
-        "y": 0.831,
-        "raio": 0.16,
-        "descricao": "Cor da lanterna"
-      },
-      {
-        "x": 0.926,
-        "y": 0.099,
-        "raio": 0.095,
-        "descricao": "Formato da lua"
-      },
-      {
-        "x": 0.926,
-        "y": 0.828,
-        "raio": 0.18,
-        "descricao": "Abóbora no jardim"
+        "x": 0.315,
+        "y": 0.75,
+        "raio": 0.13,
+        "descricao": "Queijo sobre o prato"
       }
     ]
   },
   {
-    "titulo": "Três Espiãs Demais",
-    "imagem_par": "imagens/tres_espias.png",
-    "legenda": "Uma missão com Sam, Clover e Alex: encontre os 7 erros! Você conseguiu todos?",
-    "hashtags": "#TresEspiasDemais #TotallySpies #7Erros #Desenhos",
+    "titulo": "Os Flintstones em Bedrock",
+    "imagem_par": "imagens/flintstones_1536.png",
+    "legenda": "Yabba Dabba Doo! Encontre as 7 diferenças com os Flintstones. Você consegue achar todas?",
+    "hashtags": "#Flintstones #Bedrock #7Erros #Desenhos",
     "erros": [
       {
-        "x": 0.254,
-        "y": 0.552,
-        "raio": 0.095,
-        "descricao": "Cor do cinto da Sam"
-      },
-      {
-        "x": 0.546,
-        "y": 0.78,
-        "raio": 0.13,
-        "descricao": "Cor de uma bota da Clover"
-      },
-      {
-        "x": 0.754,
-        "y": 0.424,
+        "x": 0.29,
+        "y": 0.49,
         "raio": 0.14,
-        "descricao": "Cor de uma luva da Alex"
+        "descricao": "Cor da gravata do Fred"
       },
       {
-        "x": 0.161,
-        "y": 0.795,
-        "raio": 0.15,
-        "descricao": "Cor do comunicador compacto"
+        "x": 0.392,
+        "y": 0.399,
+        "raio": 0.065,
+        "descricao": "Cor do colar da Wilma"
       },
       {
-        "x": 0.545,
-        "y": 0.082,
-        "raio": 0.085,
-        "descricao": "Ponteiros do relógio"
+        "x": 0.58,
+        "y": 0.56,
+        "raio": 0.18,
+        "descricao": "Cor da roupa do Barney"
       },
       {
-        "x": 0.963,
-        "y": 0.236,
+        "x": 0.065,
+        "y": 0.65,
         "raio": 0.11,
-        "descricao": "Cor das flores"
+        "descricao": "Cor da flor"
       },
       {
-        "x": 0.912,
-        "y": 0.79,
-        "raio": 0.13,
-        "descricao": "Caneca sobre a mesa"
+        "x": 0.9,
+        "y": 0.89,
+        "raio": 0.15,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.085,
+        "y": 0.19,
+        "raio": 0.11,
+        "descricao": "Janela circular"
+      },
+      {
+        "x": 0.5,
+        "y": 0.88,
+        "raio": 0.12,
+        "descricao": "Cor da bola"
+      }
+    ]
+  },
+  {
+    "titulo": "Piquenique da Turma da Mônica",
+    "imagem_par": "imagens/monica_1536.png",
+    "legenda": "Um piquenique no Limoeiro com 7 diferenças! Quantas você encontrou com a Turma da Mônica?",
+    "hashtags": "#TurmaDaMonica #Limoeiro #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.16,
+        "y": 0.59,
+        "raio": 0.15,
+        "descricao": "Cor do vestido da Mônica"
+      },
+      {
+        "x": 0.3,
+        "y": 0.51,
+        "raio": 0.18,
+        "descricao": "Cor do Sansão"
+      },
+      {
+        "x": 0.47,
+        "y": 0.52,
+        "raio": 0.12,
+        "descricao": "Cor da camiseta do Cebolinha"
+      },
+      {
+        "x": 0.645,
+        "y": 0.797,
+        "raio": 0.09,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.895,
+        "y": 0.879,
+        "raio": 0.12,
+        "descricao": "Cor da bola"
+      },
+      {
+        "x": 0.083,
+        "y": 0.902,
+        "raio": 0.08,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.45,
+        "y": 0.748,
+        "raio": 0.06,
+        "descricao": "Cor da maçã"
       }
     ]
   }
