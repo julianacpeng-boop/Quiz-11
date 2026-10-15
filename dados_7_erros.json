@@ -1,151 +1,301 @@
 [
   {
-    "titulo": "Tom e Jerry na cozinha",
-    "imagem_par": "imagens/tom_jerry_1536.png",
-    "legenda": "Tom e Jerry entraram no desafio! Encontre os 7 erros na cozinha e conte quantos você encontrou.",
-    "hashtags": "#TomEJerry #7Erros #Desenhos #DesafioVisual",
+    "titulo": "Garfield e Odie na cozinha",
+    "imagem_par": "imagens/garfield_7erros.png",
+    "legenda": "Garfield e Odie estão no desafio! Encontre as 7 diferenças na cozinha e conte quantas você achou.",
+    "hashtags": "#Garfield #Odie #7Erros #Desenhos",
     "erros": [
       {
-        "x": 0.843,
-        "y": 0.412,
-        "raio": 0.14,
-        "descricao": "Cor da chaleira"
-      },
-      {
-        "x": 0.117,
-        "y": 0.69,
+        "x": 0.111,
+        "y": 0.77,
         "raio": 0.14,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.744,
-        "y": 0.69,
-        "raio": 0.1,
+        "x": 0.885,
+        "y": 0.81,
+        "raio": 0.15,
+        "descricao": "Cor da tigela"
+      },
+      {
+        "x": 0.073,
+        "y": 0.205,
+        "raio": 0.14,
+        "descricao": "Cor da luva de forno"
+      },
+      {
+        "x": 0.728,
+        "y": 0.757,
+        "raio": 0.11,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.619,
-        "y": 0.13,
+        "x": 0.935,
+        "y": 0.467,
+        "raio": 0.09,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.493,
+        "y": 0.119,
         "raio": 0.13,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.676,
-        "y": 0.875,
-        "raio": 0.19,
-        "descricao": "Cor do pano"
-      },
-      {
-        "x": 0.925,
-        "y": 0.4,
-        "raio": 0.075,
-        "descricao": "Cor da margarida"
-      },
-      {
-        "x": 0.315,
-        "y": 0.75,
-        "raio": 0.13,
-        "descricao": "Queijo sobre o prato"
+        "x": 0.5,
+        "y": 0.862,
+        "raio": 0.11,
+        "descricao": "Cor da bola"
       }
     ]
   },
   {
-    "titulo": "Os Flintstones em Bedrock",
-    "imagem_par": "imagens/flintstones_1536.png",
-    "legenda": "Yabba Dabba Doo! Encontre as 7 diferenças com os Flintstones. Você consegue achar todas?",
-    "hashtags": "#Flintstones #Bedrock #7Erros #Desenhos",
+    "titulo": "Bob Esponja e Patrick",
+    "imagem_par": "imagens/bob_esponja_7erros.png",
+    "legenda": "Um desafio na Fenda do Biquíni! Encontre os 7 erros com Bob Esponja e Patrick. Quantos você achou?",
+    "hashtags": "#BobEsponja #Patrick #7Erros #Desenhos",
     "erros": [
       {
-        "x": 0.29,
-        "y": 0.49,
-        "raio": 0.14,
-        "descricao": "Cor da gravata do Fred"
-      },
-      {
-        "x": 0.392,
-        "y": 0.399,
+        "x": 0.323,
+        "y": 0.663,
         "raio": 0.065,
-        "descricao": "Cor do colar da Wilma"
+        "descricao": "Cor da gravata do Bob Esponja"
       },
       {
-        "x": 0.58,
-        "y": 0.56,
+        "x": 0.727,
+        "y": 0.718,
         "raio": 0.18,
-        "descricao": "Cor da roupa do Barney"
+        "descricao": "Cor do short do Patrick"
       },
       {
-        "x": 0.065,
-        "y": 0.65,
+        "x": 0.1,
+        "y": 0.832,
+        "raio": 0.14,
+        "descricao": "Cor do balde"
+      },
+      {
+        "x": 0.875,
+        "y": 0.135,
+        "raio": 0.14,
+        "descricao": "Cor da flor no fundo"
+      },
+      {
+        "x": 0.92,
+        "y": 0.892,
+        "raio": 0.11,
+        "descricao": "Cor da bola"
+      },
+      {
+        "x": 0.495,
+        "y": 0.894,
+        "raio": 0.13,
+        "descricao": "Cor da concha"
+      },
+      {
+        "x": 0.456,
+        "y": 0.231,
+        "raio": 0.11,
+        "descricao": "Janela da casa-abacaxi"
+      }
+    ]
+  },
+  {
+    "titulo": "Piratas na ilha do tesouro",
+    "imagem_par": "imagens/piratas_7erros.png",
+    "legenda": "Um tesouro com 7 diferenças escondidas! Quantos erros você encontrou na ilha dos piratas?",
+    "hashtags": "#Piratas #IlhaDoTesouro #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.365,
+        "y": 0.11,
+        "raio": 0.16,
+        "descricao": "Cor do chapéu do pirata"
+      },
+      {
+        "x": 0.666,
+        "y": 0.23,
+        "raio": 0.2,
+        "descricao": "Cor do papagaio"
+      },
+      {
+        "x": 0.597,
+        "y": 0.699,
+        "raio": 0.09,
+        "descricao": "Cor da fechadura do baú"
+      },
+      {
+        "x": 0.243,
+        "y": 0.276,
+        "raio": 0.11,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.918,
+        "y": 0.811,
+        "raio": 0.11,
+        "descricao": "Cor da bola"
+      },
+      {
+        "x": 0.969,
+        "y": 0.404,
         "raio": 0.11,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.9,
-        "y": 0.89,
+        "x": 0.921,
+        "y": 0.135,
+        "raio": 0.11,
+        "descricao": "Borboleta no céu"
+      }
+    ]
+  },
+  {
+    "titulo": "Astronautas na base lunar",
+    "imagem_par": "imagens/astronautas_7erros.png",
+    "legenda": "Uma missão espacial com 7 diferenças! Explore a base lunar e conte quantas você encontrou.",
+    "hashtags": "#Astronautas #Espaco #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.241,
+        "y": 0.463,
+        "raio": 0.06,
+        "descricao": "Cor do emblema no traje"
+      },
+      {
+        "x": 0.738,
+        "y": 0.797,
+        "raio": 0.1,
+        "descricao": "Cor da bota"
+      },
+      {
+        "x": 0.08,
+        "y": 0.7,
+        "raio": 0.1,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.904,
+        "y": 0.759,
+        "raio": 0.15,
+        "descricao": "Cor da caixa de ferramentas"
+      },
+      {
+        "x": 0.854,
+        "y": 0.403,
+        "raio": 0.09,
+        "descricao": "Cor da bandeira"
+      },
+      {
+        "x": 0.144,
+        "y": 0.12,
+        "raio": 0.13,
+        "descricao": "Terra e Lua no céu"
+      },
+      {
+        "x": 0.96,
+        "y": 0.342,
+        "raio": 0.06,
+        "descricao": "Cor da flor na estufa"
+      }
+    ]
+  },
+  {
+    "titulo": "Popeye e Olívia no porto",
+    "imagem_par": "imagens/popeye_7erros.png",
+    "legenda": "Uma pausa no porto com Popeye e Olívia! Encontre as 7 diferenças e conte quantas você achou.",
+    "hashtags": "#Popeye #OliviaPalito #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.3,
+        "y": 0.363,
+        "raio": 0.12,
+        "descricao": "Cor do lenço do Popeye"
+      },
+      {
+        "x": 0.67,
+        "y": 0.45,
+        "raio": 0.15,
+        "descricao": "Cor da blusa da Olívia"
+      },
+      {
+        "x": 0.11,
+        "y": 0.77,
         "raio": 0.15,
         "descricao": "Cor do regador"
       },
       {
-        "x": 0.085,
-        "y": 0.19,
-        "raio": 0.11,
-        "descricao": "Janela circular"
+        "x": 0.915,
+        "y": 0.88,
+        "raio": 0.1,
+        "descricao": "Cor da bola"
       },
       {
-        "x": 0.5,
-        "y": 0.88,
+        "x": 0.48,
+        "y": 0.84,
+        "raio": 0.14,
+        "descricao": "Cor das maçãs dentro da cesta"
+      },
+      {
+        "x": 0.937,
+        "y": 0.562,
+        "raio": 0.11,
+        "descricao": "Cor das flores"
+      },
+      {
+        "x": 0.094,
+        "y": 0.138,
         "raio": 0.12,
-        "descricao": "Cor da bola"
+        "descricao": "Ponteiros do relógio"
       }
     ]
   },
   {
-    "titulo": "Piquenique da Turma da Mônica",
-    "imagem_par": "imagens/monica_1536.png",
-    "legenda": "Um piquenique no Limoeiro com 7 diferenças! Quantas você encontrou com a Turma da Mônica?",
-    "hashtags": "#TurmaDaMonica #Limoeiro #7Erros #Desenhos",
+    "titulo": "Piquenique dos dinossauros",
+    "imagem_par": "imagens/dinossauros_7erros.png",
+    "legenda": "Até os dinossauros entraram no desafio! Encontre as 7 diferenças deste piquenique. Quantas você achou?",
+    "hashtags": "#Dinossauros #Piquenique #7Erros #DesafioVisual",
     "erros": [
       {
-        "x": 0.16,
-        "y": 0.59,
-        "raio": 0.15,
-        "descricao": "Cor do vestido da Mônica"
-      },
-      {
-        "x": 0.3,
-        "y": 0.51,
-        "raio": 0.18,
-        "descricao": "Cor do Sansão"
-      },
-      {
-        "x": 0.47,
-        "y": 0.52,
-        "raio": 0.12,
-        "descricao": "Cor da camiseta do Cebolinha"
-      },
-      {
-        "x": 0.645,
-        "y": 0.797,
-        "raio": 0.09,
+        "x": 0.345,
+        "y": 0.607,
+        "raio": 0.075,
         "descricao": "Cor da caneca"
       },
       {
         "x": 0.895,
-        "y": 0.879,
-        "raio": 0.12,
+        "y": 0.858,
+        "raio": 0.11,
         "descricao": "Cor da bola"
       },
       {
-        "x": 0.083,
-        "y": 0.902,
-        "raio": 0.08,
+        "x": 0.095,
+        "y": 0.619,
+        "raio": 0.14,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.518,
+        "y": 0.614,
+        "raio": 0.065,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.956,
+        "y": 0.572,
+        "raio": 0.07,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.45,
-        "y": 0.748,
-        "raio": 0.06,
-        "descricao": "Cor da maçã"
+        "x": 0.547,
+        "y": 0.696,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.899,
+        "y": 0.106,
+        "raio": 0.08,
+        "descricao": "Borboleta"
       }
     ]
   }
