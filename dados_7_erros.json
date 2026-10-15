@@ -1,301 +1,1501 @@
 [
   {
-    "titulo": "Garfield e Odie na cozinha",
-    "imagem_par": "imagens/garfield_7erros.png",
-    "legenda": "Garfield e Odie estão no desafio! Encontre as 7 diferenças na cozinha e conte quantas você achou.",
-    "hashtags": "#Garfield #Odie #7Erros #Desenhos",
+    "titulo": "Mônica e Cebolinha",
+    "imagem_par": "imagens/lote30_desafio_01.jpg",
+    "legenda": "Mônica e Cebolinha: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#TurmaDaMonica #Monica #7Erros #Desenhos",
     "erros": [
       {
-        "x": 0.111,
-        "y": 0.77,
+        "x": 0.11,
+        "y": 0.83,
         "raio": 0.14,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.885,
-        "y": 0.81,
-        "raio": 0.15,
-        "descricao": "Cor da tigela"
-      },
-      {
-        "x": 0.073,
-        "y": 0.205,
-        "raio": 0.14,
-        "descricao": "Cor da luva de forno"
-      },
-      {
-        "x": 0.728,
-        "y": 0.757,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.935,
-        "y": 0.467,
-        "raio": 0.09,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.493,
-        "y": 0.119,
-        "raio": 0.13,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.5,
-        "y": 0.862,
-        "raio": 0.11,
-        "descricao": "Cor da bola"
-      }
-    ]
-  },
-  {
-    "titulo": "Bob Esponja e Patrick",
-    "imagem_par": "imagens/bob_esponja_7erros.png",
-    "legenda": "Um desafio na Fenda do Biquíni! Encontre os 7 erros com Bob Esponja e Patrick. Quantos você achou?",
-    "hashtags": "#BobEsponja #Patrick #7Erros #Desenhos",
-    "erros": [
-      {
-        "x": 0.323,
-        "y": 0.663,
-        "raio": 0.065,
-        "descricao": "Cor da gravata do Bob Esponja"
-      },
-      {
-        "x": 0.727,
-        "y": 0.718,
-        "raio": 0.18,
-        "descricao": "Cor do short do Patrick"
-      },
-      {
-        "x": 0.1,
-        "y": 0.832,
-        "raio": 0.14,
-        "descricao": "Cor do balde"
-      },
-      {
-        "x": 0.875,
-        "y": 0.135,
-        "raio": 0.14,
-        "descricao": "Cor da flor no fundo"
+        "x": 0.87,
+        "y": 0.76,
+        "raio": 0.2,
+        "descricao": "Cor do regador"
       },
       {
         "x": 0.92,
-        "y": 0.892,
-        "raio": 0.11,
-        "descricao": "Cor da bola"
-      },
-      {
-        "x": 0.495,
-        "y": 0.894,
-        "raio": 0.13,
-        "descricao": "Cor da concha"
-      },
-      {
-        "x": 0.456,
-        "y": 0.231,
-        "raio": 0.11,
-        "descricao": "Janela da casa-abacaxi"
-      }
-    ]
-  },
-  {
-    "titulo": "Piratas na ilha do tesouro",
-    "imagem_par": "imagens/piratas_7erros.png",
-    "legenda": "Um tesouro com 7 diferenças escondidas! Quantos erros você encontrou na ilha dos piratas?",
-    "hashtags": "#Piratas #IlhaDoTesouro #7Erros #DesafioVisual",
-    "erros": [
-      {
-        "x": 0.365,
-        "y": 0.11,
-        "raio": 0.16,
-        "descricao": "Cor do chapéu do pirata"
-      },
-      {
-        "x": 0.666,
-        "y": 0.23,
-        "raio": 0.2,
-        "descricao": "Cor do papagaio"
-      },
-      {
-        "x": 0.597,
-        "y": 0.699,
-        "raio": 0.09,
-        "descricao": "Cor da fechadura do baú"
-      },
-      {
-        "x": 0.243,
-        "y": 0.276,
-        "raio": 0.11,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.918,
-        "y": 0.811,
-        "raio": 0.11,
-        "descricao": "Cor da bola"
-      },
-      {
-        "x": 0.969,
-        "y": 0.404,
-        "raio": 0.11,
+        "y": 0.31,
+        "raio": 0.1,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.921,
-        "y": 0.135,
-        "raio": 0.11,
-        "descricao": "Borboleta no céu"
-      }
-    ]
-  },
-  {
-    "titulo": "Astronautas na base lunar",
-    "imagem_par": "imagens/astronautas_7erros.png",
-    "legenda": "Uma missão espacial com 7 diferenças! Explore a base lunar e conte quantas você encontrou.",
-    "hashtags": "#Astronautas #Espaco #7Erros #DesafioVisual",
-    "erros": [
-      {
-        "x": 0.241,
-        "y": 0.463,
-        "raio": 0.06,
-        "descricao": "Cor do emblema no traje"
-      },
-      {
-        "x": 0.738,
-        "y": 0.797,
-        "raio": 0.1,
-        "descricao": "Cor da bota"
-      },
-      {
-        "x": 0.08,
-        "y": 0.7,
-        "raio": 0.1,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.904,
-        "y": 0.759,
-        "raio": 0.15,
-        "descricao": "Cor da caixa de ferramentas"
-      },
-      {
-        "x": 0.854,
-        "y": 0.403,
-        "raio": 0.09,
-        "descricao": "Cor da bandeira"
-      },
-      {
-        "x": 0.144,
-        "y": 0.12,
-        "raio": 0.13,
-        "descricao": "Terra e Lua no céu"
-      },
-      {
-        "x": 0.96,
-        "y": 0.342,
-        "raio": 0.06,
-        "descricao": "Cor da flor na estufa"
-      }
-    ]
-  },
-  {
-    "titulo": "Popeye e Olívia no porto",
-    "imagem_par": "imagens/popeye_7erros.png",
-    "legenda": "Uma pausa no porto com Popeye e Olívia! Encontre as 7 diferenças e conte quantas você achou.",
-    "hashtags": "#Popeye #OliviaPalito #7Erros #Desenhos",
-    "erros": [
-      {
-        "x": 0.3,
-        "y": 0.363,
+        "x": 0.38,
+        "y": 0.8,
         "raio": 0.12,
-        "descricao": "Cor do lenço do Popeye"
-      },
-      {
-        "x": 0.67,
-        "y": 0.45,
-        "raio": 0.15,
-        "descricao": "Cor da blusa da Olívia"
-      },
-      {
-        "x": 0.11,
-        "y": 0.77,
-        "raio": 0.15,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.915,
-        "y": 0.88,
-        "raio": 0.1,
-        "descricao": "Cor da bola"
-      },
-      {
-        "x": 0.48,
-        "y": 0.84,
-        "raio": 0.14,
-        "descricao": "Cor das maçãs dentro da cesta"
-      },
-      {
-        "x": 0.937,
-        "y": 0.562,
-        "raio": 0.11,
-        "descricao": "Cor das flores"
-      },
-      {
-        "x": 0.094,
-        "y": 0.138,
-        "raio": 0.12,
-        "descricao": "Ponteiros do relógio"
-      }
-    ]
-  },
-  {
-    "titulo": "Piquenique dos dinossauros",
-    "imagem_par": "imagens/dinossauros_7erros.png",
-    "legenda": "Até os dinossauros entraram no desafio! Encontre as 7 diferenças deste piquenique. Quantas você achou?",
-    "hashtags": "#Dinossauros #Piquenique #7Erros #DesafioVisual",
-    "erros": [
-      {
-        "x": 0.345,
-        "y": 0.607,
-        "raio": 0.075,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.895,
-        "y": 0.858,
-        "raio": 0.11,
-        "descricao": "Cor da bola"
-      },
-      {
-        "x": 0.095,
-        "y": 0.619,
-        "raio": 0.14,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.518,
-        "y": 0.614,
-        "raio": 0.065,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.956,
-        "y": 0.572,
-        "raio": 0.07,
+        "x": 0.13,
+        "y": 0.63,
+        "raio": 0.16,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.53,
+        "y": 0.13,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.85,
+        "y": 0.1,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Tom e Jerry",
+    "imagem_par": "imagens/lote30_desafio_02.jpg",
+    "legenda": "Tom e Jerry: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#TomEJerry #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.08,
+        "y": 0.76,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.94,
+        "y": 0.53,
+        "raio": 0.15,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.855,
+        "y": 0.28,
+        "raio": 0.09,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.547,
-        "y": 0.696,
+        "x": 0.51,
+        "y": 0.84,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.1,
+        "y": 0.46,
+        "raio": 0.12,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.543,
+        "y": 0.121,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.957,
+        "y": 0.14,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Doraemon e Nobita",
+    "imagem_par": "imagens/lote30_desafio_03.jpg",
+    "legenda": "Doraemon e Nobita: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Doraemon #Nobita #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.16,
+        "y": 0.83,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.83,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.867,
+        "y": 0.24,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.534,
+        "y": 0.79,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.085,
+        "y": 0.38,
         "raio": 0.1,
         "descricao": "Cor do laço da cesta"
       },
       {
-        "x": 0.899,
-        "y": 0.106,
+        "x": 0.474,
+        "y": 0.102,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.93,
+        "y": 0.1,
         "raio": 0.08,
-        "descricao": "Borboleta"
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Pica-Pau",
+    "imagem_par": "imagens/lote30_desafio_04.jpg",
+    "legenda": "Pica-Pau: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#PicaPau #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.33,
+        "y": 0.84,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.85,
+        "y": 0.79,
+        "raio": 0.19,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.83,
+        "y": 0.43,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.65,
+        "y": 0.87,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.11,
+        "y": 0.49,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.63,
+        "y": 0.14,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.79,
+        "y": 0.1,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Os Flintstones",
+    "imagem_par": "imagens/lote30_desafio_05.jpg",
+    "legenda": "Os Flintstones: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Flintstones #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.08,
+        "y": 0.72,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.77,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.895,
+        "y": 0.325,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.448,
+        "y": 0.725,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.08,
+        "y": 0.49,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.52,
+        "y": 0.13,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.95,
+        "y": 0.056,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Os Jetsons",
+    "imagem_par": "imagens/lote30_desafio_06.jpg",
+    "legenda": "Os Jetsons: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Jetsons #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.06,
+        "y": 0.82,
+        "raio": 0.11,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.82,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.875,
+        "y": 0.54,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.437,
+        "y": 0.85,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.2,
+        "y": 0.77,
+        "raio": 0.14,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.56,
+        "y": 0.13,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.93,
+        "y": 0.1,
+        "raio": 0.12,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Pantera Cor-de-Rosa",
+    "imagem_par": "imagens/lote30_desafio_07.jpg",
+    "legenda": "Pantera Cor-de-Rosa: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#PanteraCorDeRosa #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.055,
+        "y": 0.61,
+        "raio": 0.1,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.75,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.91,
+        "y": 0.29,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.45,
+        "y": 0.91,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.198,
+        "y": 0.45,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.54,
+        "y": 0.087,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.83,
+        "y": 0.09,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Gato Félix",
+    "imagem_par": "imagens/lote30_desafio_08.jpg",
+    "legenda": "Gato Félix: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#GatoFelix #DesenhosClassicos #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.12,
+        "y": 0.76,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.74,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.78,
+        "y": 0.47,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.5,
+        "y": 0.81,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.114,
+        "y": 0.45,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.544,
+        "y": 0.12,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.956,
+        "y": 0.07,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Mônica e Magali na confeitaria",
+    "imagem_par": "imagens/lote30_desafio_09.jpg",
+    "legenda": "Mônica e Magali na confeitaria: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Monica #Magali #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.08,
+        "y": 0.81,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.76,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.94,
+        "y": 0.3,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.47,
+        "y": 0.83,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.098,
+        "y": 0.24,
+        "raio": 0.09,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.49,
+        "y": 0.12,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.86,
+        "y": 0.11,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Zé Colmeia e Catatau",
+    "imagem_par": "imagens/lote30_desafio_10.jpg",
+    "legenda": "Zé Colmeia e Catatau: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#ZeColmeia #Catatau #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.1,
+        "y": 0.81,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.74,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.76,
+        "y": 0.56,
+        "raio": 0.14,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.44,
+        "y": 0.81,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.147,
+        "y": 0.65,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.71,
+        "y": 0.12,
+        "raio": 0.11,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.846,
+        "y": 0.14,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Garfield e Odie no café",
+    "imagem_par": "imagens/lote30_desafio_11.jpg",
+    "legenda": "Garfield e Odie no café: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Garfield #Odie #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.14,
+        "y": 0.8,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.94,
+        "y": 0.79,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.825,
+        "y": 0.575,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.445,
+        "y": 0.78,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.306,
+        "y": 0.735,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.56,
+        "y": 0.13,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.937,
+        "y": 0.17,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Snoopy e Charlie Brown",
+    "imagem_par": "imagens/lote30_desafio_12.jpg",
+    "legenda": "Snoopy e Charlie Brown: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Snoopy #CharlieBrown #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.1,
+        "y": 0.82,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.78,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.85,
+        "y": 0.33,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.53,
+        "y": 0.87,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.165,
+        "y": 0.63,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.58,
+        "y": 0.17,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.927,
+        "y": 0.17,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Smurfs",
+    "imagem_par": "imagens/lote30_desafio_13.jpg",
+    "legenda": "Smurfs: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Smurfs #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.23,
+        "y": 0.8,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.78,
+        "raio": 0.19,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.6,
+        "y": 0.66,
+        "raio": 0.14,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.47,
+        "y": 0.8,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.1,
+        "y": 0.5,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.51,
+        "y": 0.16,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.87,
+        "y": 0.16,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "As Meninas Superpoderosas",
+    "imagem_par": "imagens/lote30_desafio_14.jpg",
+    "legenda": "As Meninas Superpoderosas: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#MeninasSuperpoderosas #Desenhos #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.126,
+        "y": 0.78,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.83,
+        "y": 0.79,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.8,
+        "y": 0.18,
+        "raio": 0.08,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.49,
+        "y": 0.77,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.12,
+        "y": 0.29,
+        "raio": 0.09,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.495,
+        "y": 0.1,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.91,
+        "y": 0.08,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Popeye e Olívia no piquenique",
+    "imagem_par": "imagens/lote30_desafio_15.jpg",
+    "legenda": "Popeye e Olívia no piquenique: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Popeye #OliviaPalito #7Erros #Desenhos",
+    "erros": [
+      {
+        "x": 0.11,
+        "y": 0.85,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.94,
+        "y": 0.82,
+        "raio": 0.15,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.85,
+        "y": 0.6,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.58,
+        "y": 0.87,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.13,
+        "y": 0.7,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.447,
+        "y": 0.11,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.915,
+        "y": 0.08,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Mistério na biblioteca",
+    "imagem_par": "imagens/lote30_desafio_16.jpg",
+    "legenda": "Mistério na biblioteca: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.12,
+        "y": 0.81,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.76,
+        "raio": 0.19,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.92,
+        "y": 0.42,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.56,
+        "y": 0.84,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.14,
+        "y": 0.56,
+        "raio": 0.13,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.606,
+        "y": 0.13,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.93,
+        "y": 0.1,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Pistas no museu",
+    "imagem_par": "imagens/lote30_desafio_17.jpg",
+    "legenda": "Pistas no museu: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.2,
+        "y": 0.83,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.89,
+        "y": 0.81,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.77,
+        "y": 0.51,
+        "raio": 0.16,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.49,
+        "y": 0.76,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.3,
+        "y": 0.68,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.505,
+        "y": 0.118,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.77,
+        "y": 0.06,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Enigma no laboratório",
+    "imagem_par": "imagens/lote30_desafio_18.jpg",
+    "legenda": "Enigma no laboratório: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.095,
+        "y": 0.82,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.89,
+        "y": 0.8,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.614,
+        "y": 0.51,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.45,
+        "y": 0.82,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.124,
+        "y": 0.58,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.547,
+        "y": 0.12,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.91,
+        "y": 0.086,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "O escritório secreto",
+    "imagem_par": "imagens/lote30_desafio_19.jpg",
+    "legenda": "O escritório secreto: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.115,
+        "y": 0.785,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.75,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.81,
+        "y": 0.53,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.53,
+        "y": 0.79,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.17,
+        "y": 0.6,
+        "raio": 0.12,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.538,
+        "y": 0.11,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.822,
+        "y": 0.073,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Mistério na estação",
+    "imagem_par": "imagens/lote30_desafio_20.jpg",
+    "legenda": "Mistério na estação: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.235,
+        "y": 0.85,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.93,
+        "y": 0.74,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.732,
+        "y": 0.56,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.495,
+        "y": 0.89,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.096,
+        "y": 0.51,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.47,
+        "y": 0.11,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.68,
+        "y": 0.055,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "O quarto do hotel",
+    "imagem_par": "imagens/lote30_desafio_21.jpg",
+    "legenda": "O quarto do hotel: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.145,
+        "y": 0.76,
+        "raio": 0.14,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.864,
+        "y": 0.72,
+        "raio": 0.19,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.663,
+        "y": 0.46,
+        "raio": 0.14,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.535,
+        "y": 0.785,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.465,
+        "y": 0.66,
+        "raio": 0.12,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.594,
+        "y": 0.13,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.918,
+        "y": 0.09,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Pistas no observatório",
+    "imagem_par": "imagens/lote30_desafio_22.jpg",
+    "legenda": "Pistas no observatório: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.12,
+        "y": 0.8,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.93,
+        "y": 0.76,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.74,
+        "y": 0.54,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.425,
+        "y": 0.82,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.275,
+        "y": 0.7,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.51,
+        "y": 0.085,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.87,
+        "y": 0.09,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "A oficina do relógio",
+    "imagem_par": "imagens/lote30_desafio_23.jpg",
+    "legenda": "A oficina do relógio: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.195,
+        "y": 0.81,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.79,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.78,
+        "y": 0.44,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.46,
+        "y": 0.78,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.21,
+        "y": 0.58,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.605,
+        "y": 0.105,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.885,
+        "y": 0.08,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Segredos do teatro",
+    "imagem_par": "imagens/lote30_desafio_24.jpg",
+    "legenda": "Segredos do teatro: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.115,
+        "y": 0.83,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.92,
+        "y": 0.72,
+        "raio": 0.17,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.8,
+        "y": 0.5,
+        "raio": 0.14,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.47,
+        "y": 0.84,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.33,
+        "y": 0.77,
+        "raio": 0.13,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.595,
+        "y": 0.115,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.91,
+        "y": 0.07,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Mistério na estufa",
+    "imagem_par": "imagens/lote30_desafio_25.jpg",
+    "legenda": "Mistério na estufa: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.1,
+        "y": 0.77,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.8,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.865,
+        "y": 0.4,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.542,
+        "y": 0.835,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.115,
+        "y": 0.31,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.565,
+        "y": 0.13,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.9,
+        "y": 0.105,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Pistas na joalheria",
+    "imagem_par": "imagens/lote30_desafio_26.jpg",
+    "legenda": "Pistas na joalheria: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.11,
+        "y": 0.79,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.74,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.71,
+        "y": 0.5,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.454,
+        "y": 0.805,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.184,
+        "y": 0.56,
+        "raio": 0.12,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.609,
+        "y": 0.117,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.816,
+        "y": 0.13,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Enigma na mansão",
+    "imagem_par": "imagens/lote30_desafio_27.jpg",
+    "legenda": "Enigma na mansão: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.12,
+        "y": 0.77,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.94,
+        "y": 0.73,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.76,
+        "y": 0.59,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.477,
+        "y": 0.8,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.09,
+        "y": 0.55,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.54,
+        "y": 0.1,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.823,
+        "y": 0.064,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "O farol misterioso",
+    "imagem_par": "imagens/lote30_desafio_28.jpg",
+    "legenda": "O farol misterioso: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.344,
+        "y": 0.75,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.886,
+        "y": 0.75,
+        "raio": 0.15,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.812,
+        "y": 0.35,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.537,
+        "y": 0.81,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.28,
+        "y": 0.5,
+        "raio": 0.1,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.573,
+        "y": 0.11,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.86,
+        "y": 0.1,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Mistério no café",
+    "imagem_par": "imagens/lote30_desafio_29.jpg",
+    "legenda": "Mistério no café: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.12,
+        "y": 0.74,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.9,
+        "y": 0.76,
+        "raio": 0.18,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.67,
+        "y": 0.48,
+        "raio": 0.14,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.54,
+        "y": 0.72,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.24,
+        "y": 0.6,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.582,
+        "y": 0.13,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.93,
+        "y": 0.09,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Arquivo confidencial",
+    "imagem_par": "imagens/lote30_desafio_30.jpg",
+    "legenda": "Arquivo confidencial: encontre as 7 diferenças! Quantas você encontrou? Conte nos comentários.",
+    "hashtags": "#Investigacao #Detetive #7Erros #DesafioVisual",
+    "erros": [
+      {
+        "x": 0.155,
+        "y": 0.8,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.93,
+        "y": 0.75,
+        "raio": 0.16,
+        "descricao": "Cor do regador"
+      },
+      {
+        "x": 0.83,
+        "y": 0.52,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.536,
+        "y": 0.805,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.175,
+        "y": 0.65,
+        "raio": 0.11,
+        "descricao": "Cor do laço da cesta"
+      },
+      {
+        "x": 0.63,
+        "y": 0.12,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.93,
+        "y": 0.088,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
       }
     ]
   }
