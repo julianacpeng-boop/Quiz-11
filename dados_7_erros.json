@@ -1,1098 +1,548 @@
 [
   {
-    "titulo": "Mônica e Cebolinha na praia",
-    "imagem_par": "imagens/novo30b_01.jpg",
-    "legenda": "Mônica e Cebolinha na praia: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Monica #Cebolinha #7Erros #Caricatura",
+    "titulo": "Padeira na padaria",
+    "imagem_par": "imagens/profissoes_01.jpg",
+    "legenda": "Padeira na padaria: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Padaria #Panificacao #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.115,
-        "y": 0.83,
-        "raio": 0.16,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.87,
-        "y": 0.83,
-        "raio": 0.2,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.67,
-        "y": 0.66,
-        "raio": 0.14,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.524,
-        "y": 0.86,
-        "raio": 0.14,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.372,
-        "y": 0.8,
-        "raio": 0.14,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.571,
-        "y": 0.135,
-        "raio": 0.19,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.912,
-        "y": 0.114,
-        "raio": 0.1,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Chico Bento e Rosinha",
-    "imagem_par": "imagens/novo30b_02.jpg",
-    "legenda": "Chico Bento e Rosinha: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#ChicoBento #Rosinha #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.205,
-        "y": 0.84,
-        "raio": 0.13,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.75,
-        "y": 0.8,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.54,
-        "y": 0.55,
-        "raio": 0.1,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.38,
-        "y": 0.85,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.13,
-        "y": 0.65,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.62,
-        "y": 0.24,
-        "raio": 0.16,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.78,
-        "y": 0.2,
-        "raio": 0.1,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Tom e Jerry no estúdio",
-    "imagem_par": "imagens/novo30b_03.jpg",
-    "legenda": "Tom e Jerry no estúdio: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#TomEJerry #Musica #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.1,
-        "y": 0.86,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.92,
-        "y": 0.83,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.82,
-        "y": 0.26,
-        "raio": 0.11,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.55,
-        "y": 0.87,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.085,
-        "y": 0.56,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.598,
-        "y": 0.11,
-        "raio": 0.16,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.84,
-        "y": 0.055,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Pica-Pau na estação",
-    "imagem_par": "imagens/novo30b_04.jpg",
-    "legenda": "Pica-Pau na estação: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#PicaPau #Trem #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.09,
-        "y": 0.87,
+        "x": 0.075,
+        "y": 0.825,
         "raio": 0.13,
         "descricao": "Cor da caneca"
       },
       {
         "x": 0.9,
-        "y": 0.85,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
+        "y": 0.69,
+        "raio": 0.15,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.72,
-        "y": 0.32,
-        "raio": 0.15,
+        "x": 0.83,
+        "y": 0.35,
+        "raio": 0.14,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.55,
-        "y": 0.91,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.186,
-        "y": 0.64,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.74,
-        "y": 0.115,
-        "raio": 0.17,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.918,
-        "y": 0.08,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Aniversário dos Flintstones",
-    "imagem_par": "imagens/novo30b_05.jpg",
-    "legenda": "Aniversário dos Flintstones: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Flintstones #Aniversario #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.13,
-        "y": 0.83,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.88,
-        "y": 0.82,
-        "raio": 0.15,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.75,
-        "y": 0.6,
-        "raio": 0.1,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.49,
-        "y": 0.86,
+        "x": 0.696,
+        "y": 0.8,
         "raio": 0.1,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.11,
-        "y": 0.6,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.715,
+        "y": 0.54,
+        "raio": 0.13,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.65,
-        "y": 0.09,
+        "x": 0.64,
+        "y": 0.103,
         "raio": 0.16,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.93,
-        "y": 0.13,
+        "x": 0.832,
+        "y": 0.09,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Chef na cozinha",
+    "imagem_par": "imagens/profissoes_02.jpg",
+    "legenda": "Chef na cozinha: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Chef #Gastronomia #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.05,
+        "y": 0.78,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.94,
+        "y": 0.77,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.849,
+        "y": 0.405,
+        "raio": 0.1,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.56,
+        "y": 0.87,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.18,
+        "y": 0.79,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.664,
+        "y": 0.15,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.85,
+        "y": 0.145,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "Os Jetsons na varanda",
-    "imagem_par": "imagens/novo30b_06.jpg",
-    "legenda": "Os Jetsons na varanda: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Jetsons #Futuro #7Erros #Caricatura",
+    "titulo": "Enfermeira na unidade",
+    "imagem_par": "imagens/profissoes_03.jpg",
+    "legenda": "Enfermeira na unidade: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Enfermagem #Hospital #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.257,
-        "y": 0.69,
-        "raio": 0.11,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.84,
-        "y": 0.71,
+        "x": 0.108,
+        "y": 0.81,
         "raio": 0.15,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.744,
-        "y": 0.57,
-        "raio": 0.1,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.488,
-        "y": 0.695,
-        "raio": 0.1,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.054,
-        "y": 0.52,
-        "raio": 0.1,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.51,
-        "y": 0.125,
-        "raio": 0.14,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.867,
-        "y": 0.12,
-        "raio": 0.1,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Pantera Cor-de-Rosa na floricultura",
-    "imagem_par": "imagens/novo30b_07.jpg",
-    "legenda": "Pantera Cor-de-Rosa na floricultura: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#PanteraCorDeRosa #Flores #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.075,
-        "y": 0.82,
-        "raio": 0.13,
         "descricao": "Cor da caneca"
       },
       {
         "x": 0.91,
-        "y": 0.8,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
+        "y": 0.83,
+        "raio": 0.19,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.68,
-        "y": 0.47,
-        "raio": 0.12,
+        "x": 0.785,
+        "y": 0.5,
+        "raio": 0.13,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.55,
+        "x": 0.485,
         "y": 0.84,
-        "raio": 0.1,
+        "raio": 0.12,
         "descricao": "Cor da maçã"
       },
       {
         "x": 0.29,
-        "y": 0.73,
-        "raio": 0.14,
-        "descricao": "Cor do laço da cesta"
+        "y": 0.84,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.635,
-        "y": 0.22,
-        "raio": 0.16,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.944,
-        "y": 0.225,
-        "raio": 0.1,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Gato Félix na relojoaria",
-    "imagem_par": "imagens/novo30b_08.jpg",
-    "legenda": "Gato Félix na relojoaria: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#GatoFelix #Relogios #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.11,
-        "y": 0.8,
-        "raio": 0.13,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.86,
-        "y": 0.77,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.75,
-        "y": 0.56,
-        "raio": 0.11,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.61,
-        "y": 0.83,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.245,
-        "y": 0.74,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.588,
-        "y": 0.316,
-        "raio": 0.19,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.894,
-        "y": 0.22,
-        "raio": 0.08,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Mônica e Magali no jardim",
-    "imagem_par": "imagens/novo30b_09.jpg",
-    "legenda": "Mônica e Magali no jardim: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Monica #Magali #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.16,
-        "y": 0.8,
-        "raio": 0.13,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.87,
-        "y": 0.61,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.72,
-        "y": 0.56,
-        "raio": 0.12,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.45,
-        "y": 0.81,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.1,
-        "y": 0.64,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.62,
-        "y": 0.125,
-        "raio": 0.15,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.82,
-        "y": 0.09,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Zé Colmeia no acampamento",
-    "imagem_par": "imagens/novo30b_10.jpg",
-    "legenda": "Zé Colmeia no acampamento: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#ZeColmeia #Catatau #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.08,
-        "y": 0.76,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.915,
-        "y": 0.7,
-        "raio": 0.16,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.77,
-        "y": 0.55,
-        "raio": 0.15,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.51,
-        "y": 0.76,
-        "raio": 0.1,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.25,
-        "y": 0.65,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.565,
-        "y": 0.11,
-        "raio": 0.15,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.84,
-        "y": 0.083,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Garfield e Odie na biblioteca",
-    "imagem_par": "imagens/novo30b_11.jpg",
-    "legenda": "Garfield e Odie na biblioteca: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Garfield #Odie #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.066,
-        "y": 0.77,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.91,
-        "y": 0.69,
-        "raio": 0.12,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.676,
-        "y": 0.4,
-        "raio": 0.11,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.435,
-        "y": 0.8,
-        "raio": 0.1,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.15,
-        "y": 0.65,
-        "raio": 0.09,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.585,
-        "y": 0.234,
-        "raio": 0.12,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.847,
-        "y": 0.177,
-        "raio": 0.07,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Snoopy e Charlie Brown acampando",
-    "imagem_par": "imagens/novo30b_12.jpg",
-    "legenda": "Snoopy e Charlie Brown acampando: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Snoopy #CharlieBrown #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.174,
-        "y": 0.83,
-        "raio": 0.13,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.9,
-        "y": 0.835,
-        "raio": 0.16,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.71,
-        "y": 0.69,
-        "raio": 0.13,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.525,
-        "y": 0.85,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.09,
-        "y": 0.725,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.447,
-        "y": 0.28,
-        "raio": 0.14,
+        "x": 0.66,
+        "y": 0.13,
+        "raio": 0.18,
         "descricao": "Ponteiros do relógio"
       },
       {
         "x": 0.92,
-        "y": 0.27,
-        "raio": 0.08,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Piquenique dos Smurfs",
-    "imagem_par": "imagens/novo30b_13.jpg",
-    "legenda": "Piquenique dos Smurfs: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Smurfs #Piquenique #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.07,
-        "y": 0.84,
-        "raio": 0.12,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.895,
-        "y": 0.86,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.873,
-        "y": 0.585,
-        "raio": 0.11,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.552,
-        "y": 0.78,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.136,
-        "y": 0.65,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.51,
-        "y": 0.218,
-        "raio": 0.16,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.874,
-        "y": 0.21,
-        "raio": 0.1,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Meninas Superpoderosas na oficina",
-    "imagem_par": "imagens/novo30b_14.jpg",
-    "legenda": "Meninas Superpoderosas na oficina: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#MeninasSuperpoderosas #Brinquedos #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.067,
-        "y": 0.84,
-        "raio": 0.14,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.857,
-        "y": 0.87,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.946,
-        "y": 0.69,
-        "raio": 0.1,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.538,
-        "y": 0.85,
-        "raio": 0.13,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.1,
-        "y": 0.53,
-        "raio": 0.13,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.514,
-        "y": 0.13,
-        "raio": 0.18,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.887,
-        "y": 0.115,
+        "y": 0.08,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "Popeye e Olívia no farol",
-    "imagem_par": "imagens/novo30b_15.jpg",
-    "legenda": "Popeye e Olívia no farol: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Popeye #OliviaPalito #7Erros #Caricatura",
+    "titulo": "Médico no consultório",
+    "imagem_par": "imagens/profissoes_04.jpg",
+    "legenda": "Médico no consultório: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Medicina #Consultorio #7Erros #Profissoes",
     "erros": [
-      {
-        "x": 0.16,
-        "y": 0.85,
-        "raio": 0.14,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.945,
-        "y": 0.78,
-        "raio": 0.16,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.85,
-        "y": 0.56,
-        "raio": 0.12,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.52,
-        "y": 0.81,
-        "raio": 0.12,
-        "descricao": "Cor da maçã"
-      },
       {
         "x": 0.09,
-        "y": 0.72,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.47,
-        "y": 0.13,
-        "raio": 0.18,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.9,
-        "y": 0.1,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Mistério no aquário",
-    "imagem_par": "imagens/novo30b_16.jpg",
-    "legenda": "Mistério no aquário: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Aquario #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.095,
-        "y": 0.85,
-        "raio": 0.13,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.84,
-        "y": 0.83,
-        "raio": 0.15,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.735,
-        "y": 0.69,
-        "raio": 0.13,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.515,
-        "y": 0.82,
-        "raio": 0.12,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.256,
-        "y": 0.71,
-        "raio": 0.13,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.606,
-        "y": 0.242,
-        "raio": 0.15,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.9,
-        "y": 0.2,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "A pista na loja de brinquedos",
-    "imagem_par": "imagens/novo30b_17.jpg",
-    "legenda": "A pista na loja de brinquedos: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Brinquedos #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.08,
-        "y": 0.78,
-        "raio": 0.14,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.935,
-        "y": 0.735,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.83,
-        "y": 0.46,
-        "raio": 0.12,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.47,
-        "y": 0.79,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.25,
-        "y": 0.7,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.58,
-        "y": 0.15,
-        "raio": 0.17,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.95,
-        "y": 0.08,
-        "raio": 0.08,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Enigma na confeitaria",
-    "imagem_par": "imagens/novo30b_18.jpg",
-    "legenda": "Enigma na confeitaria: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Confeitaria #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.06,
         "y": 0.775,
         "raio": 0.13,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.94,
-        "y": 0.72,
-        "raio": 0.18,
-        "descricao": "Cor do regador"
+        "x": 0.86,
+        "y": 0.85,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.763,
-        "y": 0.41,
-        "raio": 0.13,
+        "x": 0.632,
+        "y": 0.28,
+        "raio": 0.1,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.431,
+        "x": 0.53,
+        "y": 0.83,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.26,
+        "y": 0.8,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.535,
+        "y": 0.13,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.82,
+        "y": 0.07,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Dentista no atendimento",
+    "imagem_par": "imagens/profissoes_05.jpg",
+    "legenda": "Dentista no atendimento: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Odontologia #Dentista #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.078,
+        "y": 0.82,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.944,
+        "y": 0.56,
+        "raio": 0.17,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.78,
+        "y": 0.34,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.75,
+        "y": 0.56,
+        "raio": 0.08,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.68,
+        "y": 0.53,
+        "raio": 0.13,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.667,
+        "y": 0.14,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.962,
+        "y": 0.15,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Veterinária cuidando do cachorro",
+    "imagem_par": "imagens/profissoes_06.jpg",
+    "legenda": "Veterinária cuidando do cachorro: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Veterinaria #Animais #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.068,
+        "y": 0.58,
+        "raio": 0.1,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.92,
+        "y": 0.56,
+        "raio": 0.15,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.816,
+        "y": 0.4,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.315,
         "y": 0.83,
         "raio": 0.11,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.325,
-        "y": 0.68,
-        "raio": 0.1,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.19,
+        "y": 0.55,
+        "raio": 0.14,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.616,
-        "y": 0.13,
-        "raio": 0.17,
+        "x": 0.563,
+        "y": 0.107,
+        "raio": 0.14,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.916,
-        "y": 0.09,
-        "raio": 0.08,
+        "x": 0.858,
+        "y": 0.075,
+        "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "O segredo da rádio",
-    "imagem_par": "imagens/novo30b_19.jpg",
-    "legenda": "O segredo da rádio: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Radio #7Erros #Caricatura",
+    "titulo": "Professora na sala de aula",
+    "imagem_par": "imagens/profissoes_07.jpg",
+    "legenda": "Professora na sala de aula: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Professora #Educacao #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.079,
+        "x": 0.06,
         "y": 0.8,
-        "raio": 0.14,
+        "raio": 0.13,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.952,
-        "y": 0.74,
-        "raio": 0.18,
-        "descricao": "Cor do regador"
+        "x": 0.91,
+        "y": 0.82,
+        "raio": 0.17,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.839,
-        "y": 0.5,
-        "raio": 0.12,
+        "x": 0.8,
+        "y": 0.36,
+        "raio": 0.13,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.54,
-        "y": 0.82,
+        "x": 0.306,
+        "y": 0.83,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.2,
+        "y": 0.78,
+        "raio": 0.16,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.705,
+        "y": 0.142,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.942,
+        "y": 0.07,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Engenheira clínica na bancada",
+    "imagem_par": "imagens/profissoes_08.jpg",
+    "legenda": "Engenheira clínica na bancada: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#EngenhariaClinica #EquipamentosMedicos #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.075,
+        "y": 0.85,
+        "raio": 0.15,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.86,
+        "y": 0.84,
+        "raio": 0.24,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.927,
+        "y": 0.5,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.594,
+        "y": 0.88,
         "raio": 0.14,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.1,
-        "y": 0.59,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.146,
+        "y": 0.77,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.577,
-        "y": 0.145,
+        "x": 0.623,
+        "y": 0.115,
         "raio": 0.16,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.946,
-        "y": 0.1,
+        "x": 0.956,
+        "y": 0.12,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "A loja dos mapas",
-    "imagem_par": "imagens/novo30b_20.jpg",
-    "legenda": "A loja dos mapas: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Mapas #7Erros #Caricatura",
+    "titulo": "Mecânico na oficina",
+    "imagem_par": "imagens/profissoes_09.jpg",
+    "legenda": "Mecânico na oficina: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Mecanico #Oficina #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.113,
-        "y": 0.71,
-        "raio": 0.14,
+        "x": 0.08,
+        "y": 0.77,
+        "raio": 0.12,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.9,
-        "y": 0.69,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
+        "x": 0.91,
+        "y": 0.86,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.67,
-        "y": 0.46,
+        "x": 0.754,
+        "y": 0.7,
+        "raio": 0.11,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.494,
+        "y": 0.86,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.25,
+        "y": 0.84,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.655,
+        "y": 0.104,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.764,
+        "y": 0.06,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Marceneiro trabalhando",
+    "imagem_par": "imagens/profissoes_10.jpg",
+    "legenda": "Marceneiro trabalhando: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Marcenaria #Carpintaria #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.063,
+        "y": 0.8,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.93,
+        "y": 0.7,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.835,
+        "y": 0.4,
         "raio": 0.1,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.39,
-        "y": 0.81,
+        "x": 0.51,
+        "y": 0.85,
         "raio": 0.11,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.157,
-        "y": 0.45,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.132,
+        "y": 0.71,
+        "raio": 0.14,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.618,
-        "y": 0.125,
+        "x": 0.632,
+        "y": 0.12,
         "raio": 0.17,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.864,
-        "y": 0.09,
-        "raio": 0.08,
+        "x": 0.937,
+        "y": 0.075,
+        "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "Mistério no sótão",
-    "imagem_par": "imagens/novo30b_21.jpg",
-    "legenda": "Mistério no sótão: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Sotao #7Erros #Caricatura",
+    "titulo": "Eletricista em serviço",
+    "imagem_par": "imagens/profissoes_11.jpg",
+    "legenda": "Eletricista em serviço: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Eletricista #Manutencao #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.14,
-        "y": 0.78,
-        "raio": 0.14,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.88,
-        "y": 0.675,
-        "raio": 0.18,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.61,
-        "y": 0.5,
+        "x": 0.09,
+        "y": 0.835,
         "raio": 0.15,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.436,
-        "y": 0.78,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.3,
-        "y": 0.68,
-        "raio": 0.13,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.625,
-        "y": 0.15,
-        "raio": 0.17,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.927,
-        "y": 0.1,
-        "raio": 0.08,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Pistas no vagão-restaurante",
-    "imagem_par": "imagens/novo30b_22.jpg",
-    "legenda": "Pistas no vagão-restaurante: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Trem #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.12,
-        "y": 0.8,
-        "raio": 0.14,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.84,
-        "y": 0.67,
-        "raio": 0.19,
-        "descricao": "Cor do regador"
+        "x": 0.94,
+        "y": 0.79,
+        "raio": 0.18,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.66,
-        "y": 0.54,
-        "raio": 0.13,
+        "x": 0.925,
+        "y": 0.46,
+        "raio": 0.11,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.525,
-        "y": 0.8,
-        "raio": 0.12,
+        "x": 0.435,
+        "y": 0.875,
+        "raio": 0.13,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.147,
-        "y": 0.51,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.25,
+        "y": 0.87,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.598,
-        "y": 0.1,
+        "x": 0.626,
+        "y": 0.12,
         "raio": 0.17,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.746,
+        "x": 0.902,
         "y": 0.09,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
@@ -1100,99 +550,349 @@
     ]
   },
   {
-    "titulo": "O bilhete na livraria",
-    "imagem_par": "imagens/novo30b_23.jpg",
-    "legenda": "O bilhete na livraria: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Livraria #7Erros #Caricatura",
+    "titulo": "Encanador na manutenção",
+    "imagem_par": "imagens/profissoes_12.jpg",
+    "legenda": "Encanador na manutenção: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Encanador #Hidraulica #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.11,
-        "y": 0.84,
-        "raio": 0.14,
+        "x": 0.652,
+        "y": 0.73,
+        "raio": 0.12,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.916,
-        "y": 0.82,
+        "x": 0.953,
+        "y": 0.78,
         "raio": 0.17,
-        "descricao": "Cor do regador"
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.805,
-        "y": 0.55,
-        "raio": 0.14,
+        "x": 0.831,
+        "y": 0.53,
+        "raio": 0.13,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.452,
-        "y": 0.89,
+        "x": 0.84,
+        "y": 0.85,
+        "raio": 0.1,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.711,
+        "y": 0.83,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.656,
+        "y": 0.112,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.942,
+        "y": 0.068,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Arquiteta no escritório",
+    "imagem_par": "imagens/profissoes_13.jpg",
+    "legenda": "Arquiteta no escritório: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Arquitetura #Projetos #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.102,
+        "y": 0.83,
+        "raio": 0.15,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.87,
+        "y": 0.82,
+        "raio": 0.23,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.73,
+        "y": 0.37,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.42,
+        "y": 0.87,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.264,
+        "y": 0.8,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.635,
+        "y": 0.1,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.888,
+        "y": 0.16,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Programador no escritório",
+    "imagem_par": "imagens/profissoes_14.jpg",
+    "legenda": "Programador no escritório: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Programacao #Tecnologia #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.11,
+        "y": 0.74,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.884,
+        "y": 0.8,
+        "raio": 0.21,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.894,
+        "y": 0.5,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.5,
+        "y": 0.79,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.29,
+        "y": 0.82,
+        "raio": 0.2,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.677,
+        "y": 0.13,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.915,
+        "y": 0.105,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Cabeleireira no salão",
+    "imagem_par": "imagens/profissoes_15.jpg",
+    "legenda": "Cabeleireira no salão: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Cabeleireira #SalaoDeBeleza #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.067,
+        "y": 0.77,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.81,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.9,
+        "y": 0.515,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.483,
+        "y": 0.87,
         "raio": 0.11,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.252,
-        "y": 0.74,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.2,
+        "y": 0.785,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.61,
+        "x": 0.616,
         "y": 0.12,
         "raio": 0.16,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.936,
-        "y": 0.1,
+        "x": 0.726,
+        "y": 0.075,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "Enigma no ateliê",
-    "imagem_par": "imagens/novo30b_24.jpg",
-    "legenda": "Enigma no ateliê: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Pintura #7Erros #Caricatura",
+    "titulo": "Costureira no ateliê",
+    "imagem_par": "imagens/profissoes_16.jpg",
+    "legenda": "Costureira no ateliê: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Costura #Atelie #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.12,
-        "y": 0.77,
-        "raio": 0.15,
+        "x": 0.07,
+        "y": 0.7,
+        "raio": 0.12,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.9,
-        "y": 0.76,
-        "raio": 0.18,
-        "descricao": "Cor do regador"
+        "x": 0.91,
+        "y": 0.81,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
       },
       {
         "x": 0.7,
-        "y": 0.56,
-        "raio": 0.11,
+        "y": 0.3,
+        "raio": 0.12,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.42,
-        "y": 0.78,
+        "x": 0.32,
+        "y": 0.84,
         "raio": 0.12,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.215,
-        "y": 0.6,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.13,
+        "y": 0.81,
+        "raio": 0.2,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.578,
+        "x": 0.649,
+        "y": 0.12,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.962,
+        "y": 0.06,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Agricultor na horta",
+    "imagem_par": "imagens/profissoes_17.jpg",
+    "legenda": "Agricultor na horta: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Agricultura #Horta #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.08,
+        "y": 0.82,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.92,
+        "y": 0.82,
+        "raio": 0.22,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.865,
+        "y": 0.4,
+        "raio": 0.15,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.464,
+        "y": 0.845,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.23,
+        "y": 0.845,
+        "raio": 0.19,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.76,
         "y": 0.13,
         "raio": 0.17,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.84,
+        "x": 0.876,
+        "y": 0.1,
+        "raio": 0.08,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Jardineira em ação",
+    "imagem_par": "imagens/profissoes_18.jpg",
+    "legenda": "Jardineira em ação: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Jardinagem #Plantas #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.08,
+        "y": 0.825,
+        "raio": 0.14,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.905,
+        "y": 0.79,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.82,
+        "y": 0.38,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.586,
+        "y": 0.86,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.21,
+        "y": 0.81,
+        "raio": 0.15,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.625,
+        "y": 0.14,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.939,
         "y": 0.1,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
@@ -1200,199 +900,49 @@
     ]
   },
   {
-    "titulo": "Mistério nos correios",
-    "imagem_par": "imagens/novo30b_25.jpg",
-    "legenda": "Mistério nos correios: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Correios #7Erros #Caricatura",
+    "titulo": "Bombeiro no quartel",
+    "imagem_par": "imagens/profissoes_19.jpg",
+    "legenda": "Bombeiro no quartel: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Bombeiros #Quartel #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.06,
-        "y": 0.765,
-        "raio": 0.14,
+        "x": 0.08,
+        "y": 0.8,
+        "raio": 0.15,
         "descricao": "Cor da caneca"
       },
       {
         "x": 0.94,
-        "y": 0.75,
+        "y": 0.83,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.831,
+        "y": 0.52,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.422,
+        "y": 0.87,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.23,
+        "y": 0.84,
         "raio": 0.18,
-        "descricao": "Cor do regador"
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.9,
-        "y": 0.48,
-        "raio": 0.14,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.486,
-        "y": 0.78,
-        "raio": 0.12,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.088,
-        "y": 0.39,
-        "raio": 0.13,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.643,
-        "y": 0.103,
+        "x": 0.65,
+        "y": 0.12,
         "raio": 0.17,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.9,
-        "y": 0.1,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "A sala de botânica",
-    "imagem_par": "imagens/novo30b_26.jpg",
-    "legenda": "A sala de botânica: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Botanica #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.135,
-        "y": 0.77,
-        "raio": 0.15,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.89,
-        "y": 0.76,
-        "raio": 0.18,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.736,
-        "y": 0.54,
-        "raio": 0.12,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.564,
-        "y": 0.86,
-        "raio": 0.13,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.255,
-        "y": 0.62,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.645,
-        "y": 0.2,
-        "raio": 0.17,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.823,
-        "y": 0.15,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "O jardim das orquídeas",
-    "imagem_par": "imagens/novo30b_27.jpg",
-    "legenda": "O jardim das orquídeas: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Orquideas #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.115,
-        "y": 0.81,
-        "raio": 0.14,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.921,
-        "y": 0.8,
-        "raio": 0.16,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.805,
-        "y": 0.605,
-        "raio": 0.19,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.545,
-        "y": 0.81,
-        "raio": 0.11,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.195,
-        "y": 0.58,
-        "raio": 0.11,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.7,
-        "y": 0.28,
-        "raio": 0.17,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.95,
-        "y": 0.235,
-        "raio": 0.09,
-        "descricao": "Estrela decorativa"
-      }
-    ]
-  },
-  {
-    "titulo": "Pistas no navio",
-    "imagem_par": "imagens/novo30b_28.jpg",
-    "legenda": "Pistas no navio: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Navio #7Erros #Caricatura",
-    "erros": [
-      {
-        "x": 0.12,
-        "y": 0.75,
-        "raio": 0.15,
-        "descricao": "Cor da caneca"
-      },
-      {
-        "x": 0.9,
-        "y": 0.72,
-        "raio": 0.18,
-        "descricao": "Cor do regador"
-      },
-      {
-        "x": 0.8,
-        "y": 0.45,
-        "raio": 0.13,
-        "descricao": "Cor da flor"
-      },
-      {
-        "x": 0.47,
-        "y": 0.86,
-        "raio": 0.13,
-        "descricao": "Cor da maçã"
-      },
-      {
-        "x": 0.075,
-        "y": 0.49,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
-      },
-      {
-        "x": 0.602,
-        "y": 0.11,
-        "raio": 0.17,
-        "descricao": "Ponteiros do relógio"
-      },
-      {
-        "x": 0.91,
+        "x": 0.807,
         "y": 0.08,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
@@ -1400,101 +950,551 @@
     ]
   },
   {
-    "titulo": "O enigma da recepção",
-    "imagem_par": "imagens/novo30b_29.jpg",
-    "legenda": "O enigma da recepção: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Hotel #7Erros #Caricatura",
+    "titulo": "Carteira organizando entregas",
+    "imagem_par": "imagens/profissoes_20.jpg",
+    "legenda": "Carteira organizando entregas: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Carteira #Correios #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.146,
-        "y": 0.64,
-        "raio": 0.11,
+        "x": 0.09,
+        "y": 0.84,
+        "raio": 0.14,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.89,
-        "y": 0.63,
-        "raio": 0.16,
-        "descricao": "Cor do regador"
+        "x": 0.92,
+        "y": 0.85,
+        "raio": 0.22,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.786,
-        "y": 0.465,
-        "raio": 0.11,
+        "x": 0.7,
+        "y": 0.61,
+        "raio": 0.12,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.666,
-        "y": 0.66,
-        "raio": 0.11,
+        "x": 0.537,
+        "y": 0.86,
+        "raio": 0.12,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.441,
-        "y": 0.58,
-        "raio": 0.1,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.25,
+        "y": 0.83,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.5,
-        "y": 0.184,
-        "raio": 0.15,
+        "x": 0.663,
+        "y": 0.14,
+        "raio": 0.17,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.818,
-        "y": 0.145,
+        "x": 0.79,
+        "y": 0.105,
         "raio": 0.09,
         "descricao": "Estrela decorativa"
       }
     ]
   },
   {
-    "titulo": "Mistério no museu da magia",
-    "imagem_par": "imagens/novo30b_30.jpg",
-    "legenda": "Mistério no museu da magia: encontre os 7 erros em 20 segundos! Quantos você encontrou? Conte nos comentários.",
-    "hashtags": "#Investigacao #Magia #7Erros #Caricatura",
+    "titulo": "Florista preparando buquê",
+    "imagem_par": "imagens/profissoes_21.jpg",
+    "legenda": "Florista preparando buquê: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Florista #Flores #7Erros #Profissoes",
     "erros": [
       {
-        "x": 0.105,
-        "y": 0.6,
+        "x": 0.065,
+        "y": 0.77,
         "raio": 0.13,
         "descricao": "Cor da caneca"
       },
       {
-        "x": 0.923,
-        "y": 0.6,
-        "raio": 0.17,
-        "descricao": "Cor do regador"
+        "x": 0.914,
+        "y": 0.8,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
       },
       {
-        "x": 0.704,
-        "y": 0.46,
-        "raio": 0.12,
+        "x": 0.87,
+        "y": 0.45,
+        "raio": 0.14,
         "descricao": "Cor da flor"
       },
       {
-        "x": 0.51,
-        "y": 0.6,
-        "raio": 0.1,
+        "x": 0.497,
+        "y": 0.82,
+        "raio": 0.12,
         "descricao": "Cor da maçã"
       },
       {
-        "x": 0.185,
-        "y": 0.51,
-        "raio": 0.12,
-        "descricao": "Cor do laço da cesta"
+        "x": 0.206,
+        "y": 0.81,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
       },
       {
-        "x": 0.603,
-        "y": 0.18,
+        "x": 0.66,
+        "y": 0.13,
         "raio": 0.17,
         "descricao": "Ponteiros do relógio"
       },
       {
-        "x": 0.941,
-        "y": 0.16,
+        "x": 0.905,
+        "y": 0.08,
         "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Pintora no estúdio",
+    "imagem_par": "imagens/profissoes_22.jpg",
+    "legenda": "Pintora no estúdio: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Pintura #Arte #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.057,
+        "y": 0.735,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.865,
+        "raio": 0.21,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.94,
+        "y": 0.54,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.39,
+        "y": 0.84,
+        "raio": 0.14,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.25,
+        "y": 0.75,
+        "raio": 0.17,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.634,
+        "y": 0.1,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.951,
+        "y": 0.13,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Ceramista na oficina",
+    "imagem_par": "imagens/profissoes_23.jpg",
+    "legenda": "Ceramista na oficina: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Ceramica #Artesanato #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.084,
+        "y": 0.73,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.922,
+        "y": 0.65,
+        "raio": 0.19,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.77,
+        "y": 0.26,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.438,
+        "y": 0.865,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.266,
+        "y": 0.83,
+        "raio": 0.2,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.644,
+        "y": 0.113,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.9,
+        "y": 0.265,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Cientista no laboratório",
+    "imagem_par": "imagens/profissoes_24.jpg",
+    "legenda": "Cientista no laboratório: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Ciencia #Laboratorio #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.05,
+        "y": 0.81,
+        "raio": 0.14,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.92,
+        "y": 0.83,
+        "raio": 0.2,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.86,
+        "y": 0.49,
+        "raio": 0.14,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.495,
+        "y": 0.83,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.235,
+        "y": 0.83,
+        "raio": 0.2,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.644,
+        "y": 0.12,
+        "raio": 0.17,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.92,
+        "y": 0.09,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Farmacêutica no atendimento",
+    "imagem_par": "imagens/profissoes_25.jpg",
+    "legenda": "Farmacêutica no atendimento: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Farmacia #Farmaceutica #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.323,
+        "y": 0.825,
+        "raio": 0.12,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.89,
+        "y": 0.83,
+        "raio": 0.21,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.87,
+        "y": 0.22,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.572,
+        "y": 0.86,
+        "raio": 0.11,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.446,
+        "y": 0.85,
+        "raio": 0.15,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.506,
+        "y": 0.085,
+        "raio": 0.14,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.865,
+        "y": 0.075,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Fotógrafo no estúdio",
+    "imagem_par": "imagens/profissoes_26.jpg",
+    "legenda": "Fotógrafo no estúdio: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Fotografia #Estudio #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.1,
+        "y": 0.85,
+        "raio": 0.14,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.75,
+        "raio": 0.21,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.792,
+        "y": 0.42,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.515,
+        "y": 0.86,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.28,
+        "y": 0.835,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.55,
+        "y": 0.09,
+        "raio": 0.15,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.927,
+        "y": 0.075,
+        "raio": 0.1,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Jornalista na redação",
+    "imagem_par": "imagens/profissoes_27.jpg",
+    "legenda": "Jornalista na redação: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Jornalismo #Redacao #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.072,
+        "y": 0.765,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.906,
+        "y": 0.85,
+        "raio": 0.22,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.9,
+        "y": 0.3,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.48,
+        "y": 0.845,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.242,
+        "y": 0.87,
+        "raio": 0.21,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.52,
+        "y": 0.12,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.923,
+        "y": 0.086,
+        "raio": 0.11,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Piloto preparando o voo",
+    "imagem_par": "imagens/profissoes_28.jpg",
+    "legenda": "Piloto preparando o voo: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Aviacao #Piloto #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.058,
+        "y": 0.77,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.905,
+        "y": 0.83,
+        "raio": 0.23,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.87,
+        "y": 0.42,
+        "raio": 0.12,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.52,
+        "y": 0.867,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.188,
+        "y": 0.836,
+        "raio": 0.22,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.705,
+        "y": 0.128,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.964,
+        "y": 0.09,
+        "raio": 0.09,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Motorista de ônibus na garagem",
+    "imagem_par": "imagens/profissoes_29.jpg",
+    "legenda": "Motorista de ônibus na garagem: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Motorista #Transporte #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.1,
+        "y": 0.77,
+        "raio": 0.14,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.93,
+        "y": 0.8,
+        "raio": 0.19,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.838,
+        "y": 0.47,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.587,
+        "y": 0.84,
+        "raio": 0.13,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.25,
+        "y": 0.82,
+        "raio": 0.18,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.75,
+        "y": 0.105,
+        "raio": 0.16,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.886,
+        "y": 0.09,
+        "raio": 0.11,
+        "descricao": "Estrela decorativa"
+      }
+    ]
+  },
+  {
+    "titulo": "Confeiteiro decorando bolo",
+    "imagem_par": "imagens/profissoes_30.jpg",
+    "legenda": "Confeiteiro decorando bolo: encontre os 7 erros no ambiente de trabalho em 20 segundos! Quantos você encontrou? Conte nos comentários.",
+    "hashtags": "#Confeitaria #Bolos #7Erros #Profissoes",
+    "erros": [
+      {
+        "x": 0.075,
+        "y": 0.71,
+        "raio": 0.13,
+        "descricao": "Cor da caneca"
+      },
+      {
+        "x": 0.91,
+        "y": 0.7,
+        "raio": 0.18,
+        "descricao": "Cor da caixa organizadora"
+      },
+      {
+        "x": 0.784,
+        "y": 0.425,
+        "raio": 0.13,
+        "descricao": "Cor da flor"
+      },
+      {
+        "x": 0.555,
+        "y": 0.83,
+        "raio": 0.12,
+        "descricao": "Cor da maçã"
+      },
+      {
+        "x": 0.247,
+        "y": 0.7,
+        "raio": 0.15,
+        "descricao": "Cor do caderno"
+      },
+      {
+        "x": 0.675,
+        "y": 0.13,
+        "raio": 0.18,
+        "descricao": "Ponteiros do relógio"
+      },
+      {
+        "x": 0.945,
+        "y": 0.13,
+        "raio": 0.11,
         "descricao": "Estrela decorativa"
       }
     ]
